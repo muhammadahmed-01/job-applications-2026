@@ -31,7 +31,7 @@
 | 2026-09-04 | MintMCP | Software Engineer | Phase C soft SF hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-mintmcp-software-engineer.md` | — | — |
 | 2026-09-04 | Master-Works | AI, Engineer (Riyadh) | Phase B | Workable | **READY** — pack + `Muhammad_Ahmed_MasterWorks_AI_Engineer.pdf` · SAR 18–25k | — | Fill form · attach PDF · **You Submit** |
 | 2026-09-04 | Sanity | Senior Software Engineer, AI Growth | Phase C stretch | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-sanity-ai-growth.md` | — | — |
-| 2026-09-04 | Reducto | Agent Experience Engineer | Phase C | Ashby | **READY** — pack + `Muhammad_Ahmed_Reducto_Agent_Experience.pdf` | — | Attach PDF · **You Submit** |
+| 2026-09-04 | Reducto | Agent Experience Engineer | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-reducto-agent-experience.md` | — | — |
 | 2026-09-06 | LiveKit | Software Engineer, Agents | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-livekit-software-engineer-agents.md` | — | — |
 | 2026-09-06 | Clay Labs | Software Engineer, Applied AI | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-clay-labs-software-engineer-applied-ai.md` | — | — |
 | 2026-09-06 | Monte Carlo | Applied AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · essays filled · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
