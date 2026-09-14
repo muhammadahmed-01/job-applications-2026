@@ -33,7 +33,7 @@
 | 2026-09-04 | Sanity | Senior Software Engineer, AI Growth | Phase C stretch | Ashby | **READY** — pack + `Muhammad_Ahmed_Sanity_AI_Growth.pdf` | — | Attach PDF · **You Submit** |
 | 2026-09-04 | Reducto | Agent Experience Engineer | Phase C | Ashby | **READY** — pack + `Muhammad_Ahmed_Reducto_Agent_Experience.pdf` | — | Attach PDF · **You Submit** |
 | 2026-09-06 | LiveKit | Software Engineer, Agents | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-livekit-software-engineer-agents.md` | — | — |
-| 2026-09-06 | Clay Labs | Software Engineer, Applied AI | Phase C | Ashby | **FORM FILLED** — PDF attached · remote-needed · office No · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
+| 2026-09-06 | Clay Labs | Software Engineer, Applied AI | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-clay-labs-software-engineer-applied-ai.md` | — | — |
 | 2026-09-06 | Monte Carlo | Applied AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · essays filled · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-06 | Sanity | Senior Software Engineer, Content Agent | Phase C stretch | Ashby | **FORM FILLED** — PDF attached · Lahore · sponsorship Yes · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-06 | Infinity (Constellation) | Full Stack AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · team Infinity Constellation · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
