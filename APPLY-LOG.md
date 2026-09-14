@@ -37,7 +37,7 @@
 | 2026-09-06 | Monte Carlo | Applied AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · essays filled · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-06 | Sanity | Senior Software Engineer, Content Agent | Phase C stretch | Ashby | **FORM FILLED** — PDF attached · Lahore · sponsorship Yes · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-06 | Infinity (Constellation) | Full Stack AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · team Infinity Constellation · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
-| 2026-09-07 | Luminary | Software Engineer - Applied AI | Phase C | Ashby | **FORM FILLED** — PDF attached · domain essay · Lahore · EEO decline · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
+| 2026-09-07 | Luminary | Software Engineer - Applied AI | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) 2026-09-14 · `submit-logs/2026-09-14-luminary-software-engineer-applied-ai.md` | — | — |
 | 2026-09-07 | Cohere | Software Engineer, Agents & Automations | Phase C | Ashby | **FORM FILLED** — PDF attached · ET window commit · work auth No · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-07 | WorkHero | Senior Software Engineer, AI Full Stack | Phase C stretch | Ashby | **FORM FILLED** — PDF attached · not US · ET overlap Yes · SMS No · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-07 | Gravie | Senior Software Engineer, Applied AI | Phase C stretch | Ashby | **FORM FILLED** — PDF attached · comp 160k · US auth No · sponsorship Yes · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
