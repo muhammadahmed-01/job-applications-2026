@@ -2,6 +2,8 @@
 
 **Rule:** Prior-date company+role rows = **APPLIED** (DECISION 4 Sep 2026). Do not re-pack or re-submit the same posting. See `.cursor/rules/apply-tracking-resume-pdf.mdc`.
 
+**Grok Bot (14 Sep 2026):** Apply Agent may Submit. On success, flip that row to **APPLIED** immediately (`Submitted (Grok Bot)` + `submit-logs/…` path). See `GROK-BOT.md`.
+
 | Date | Company | Role | Track | Portal | Status | Outreach | Next follow-up |
 |------|---------|------|-------|--------|--------|----------|----------------|
 | 2026-08-31 | 10Pearls | Backend Python/Django | Side job | JazzHR | **APPLIED** | — | — |

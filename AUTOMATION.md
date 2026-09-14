@@ -1,41 +1,39 @@
 # Daily apply automation runbook
 
-## Goal
+## Primary path (DECISION Muhammad, 14 Sep 2026)
 
-Weekdays: ensure five Phase C packs are **FORM FILLED** (PDF attached, never Submit) and ping the user. If stale FORM FILLED rows exist, re-open tabs and remind Submit.
+**[Grok Bot Apply Agent](GROK-BOT.md)** owns the weekday Phase C loop: source → packs/PDFs on Bot computer → fill → Submit → `submit-log.md` → **APPLIED** immediately on success.
 
-## Schedule (suggested)
+| Layer | Owns |
+|-------|------|
+| **Grok Bot Apply Agent** | Full apply + Submit + fill log + APPLY-LOG APPLIED |
+| **Cursor Automations (optional)** | Ping-only if Grok Bot routine is paused; never form fill / never Submit |
 
-Cron: `0 10 * * 1-5` (10:00 display time; set timezone in Automations UI to Asia/Karachi if available)
+Pause the Cursor Automation cron while the Grok Bot weekday routine is Active to avoid double-sourcing.
 
-## Tools
+## Cursor Automations (secondary / ping-only)
 
-- Repo: `muhammadahmed-01/job-applications-2026` · branch `master`
-- Shell + browser (stealth Chrome / Cloud Agent browser) as available
-- Never spend Connects / never click Submit
+Use only when Grok Bot is unavailable. Do **not** claim tabs on Muhammad's Chrome. Do **not** mark FORM FILLED from cloud browser alone. Do **not** Submit.
 
-## Prompt (paste into Automation)
+### Schedule (if enabled)
+
+Cron: `0 10 * * 1-5` (Asia/Karachi) — keep **disabled** while Grok Bot routine is primary.
+
+### Prompt (ping-only)
 
 ```
-You are Muhammad Ahmed's job-application agent in this repo.
+You are Muhammad Ahmed's job-application ping agent.
 
-EVERY RUN (always leave a user-visible message):
+DECISION: Grok Bot Apply Agent is primary (see GROK-BOT.md). This automation is ping-only.
 
-1. Read APPLY-LOG.md and AUTOMATION.md.
-2. If any FORM FILLED / READY rows are older than today: list company+role; re-open those Ashby application URLs; re-fill from daily/ packs if present; re-attach PDFs; never Submit; ping Submit pending.
-3. If latest APPLIED is ≥2 calendar days ago AND there is no FORM FILLED batch dated today:
-   a. Dedupe against APPLY-LOG (same company+role / same Ashby job id = skip).
-   b. Source 5 NEW Phase C roles (non-PK employers; agents/MCP/applied AI preferred). Soft-gate geo/visa only.
-   c. Create daily/YYYY-MM-DD/ packs: decode-card, resume, cover-letter, form-fields (LIVE), outreach, quality-review, PDF via python scripts/md_resume_to_pdf.py
-   d. Fill forms + attach PDFs. Hear-about = LinkedIn. No "I have not built/led" dump essays.
-   e. Append APPLY-LOG as FORM FILLED. Write SHORTLIST-AI.md. Update PROBLEM-STATEMENTS.md.
-   f. Commit+push APPLY-LOG / PROBLEM-STATEMENTS / SHORTLIST only if the automation is allowed to push; never commit resume PDFs if gitignore excludes daily/.
-4. Always end with an explicit ping: last APPLIED date, Submit pending list, today's new packs.
-
-Rules: .cursor/rules/apply-tracking-resume-pdf.mdc, apply-cadence-remind.mdc, resume-tailoring.mdc, form-fields.mdc.
-Profile defaults: APPLICATION-FORM-FIELDS.md.
+1. Read APPLY-LOG.md and GROK-BOT.md.
+2. Report last APPLIED date and days since.
+3. List FORM FILLED / READY / FORM PARTIAL still awaiting human Submit (not bot-submitted).
+4. Do not source a new five-pack if Grok Bot routine is expected to run today.
+5. Never Submit. Never claim user Chrome tabs opened.
+6. End with explicit ping + Ashby URLs from PROBLEM-STATEMENTS.md when present.
 ```
 
-## After each human Submit
+## After human-only Submit
 
-User tells the agent which roles were submitted → flip APPLY-LOG rows to **APPLIED**.
+If Muhammad Submits himself (not Grok Bot): tell any agent which roles → flip APPLY-LOG to **APPLIED**.

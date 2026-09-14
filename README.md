@@ -1,8 +1,12 @@
 # job-applications-2026 (automation core)
 
-Minimal repo for **Cursor scheduled Automations** and local apply agents.
+Minimal repo for **Grok Bot Apply Agent** (primary) and optional Cursor Automations (ping-only).
 
-**Not** a dump of every tailored resume/PDF. Packs live under `daily/` locally (gitignored) and are created by the automation each run.
+**Not** a dump of every tailored resume/PDF. Packs live under `daily/` on the machine that builds them (gitignored).
+
+## Cadence
+
+See `GROK-BOT.md` (primary) and `AUTOMATION.md` (secondary). Rules: `.cursor/rules/apply-cadence-remind.mdc`.
 
 ## What stays in git
 
@@ -14,7 +18,10 @@ Minimal repo for **Cursor scheduled Automations** and local apply agents.
 | `RESUME-TAILORING-RULES.md` | Outward-copy rules |
 | `scripts/md_resume_to_pdf.py` | Resume PDF export |
 | `.cursor/rules/*.mdc` | Cadence, tracking, fill, tailoring |
-| `AUTOMATION.md` | Daily automation runbook + prompt |
+| `AUTOMATION.md` | Cursor Automations ping-only (secondary) |
+| `GROK-BOT.md` | **Primary** Grok Bot Apply Agent runbook |
+| `templates/submit-log.template.md` | Per-job fill log after Submit |
+| `submit-logs/` | Slim committed fill-log mirrors |
 
 ## Local-only (gitignored)
 
@@ -32,4 +39,4 @@ A repo created after a “Selected repositories” install does **not** appear u
 
 ## Cadence
 
-See `AUTOMATION.md` and `.cursor/rules/apply-cadence-remind.mdc`.
+See `GROK-BOT.md` (primary weekday apply) and `AUTOMATION.md` (optional ping-only).
