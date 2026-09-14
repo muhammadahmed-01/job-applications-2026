@@ -28,7 +28,7 @@
 | 2026-09-04 | Tabby | Senior Backend Remote | Phase C | Pinpoint | **BLOCKED** — email must be `@tabby.ai` / `@tabby.sa` / `@tweeq.sa` (internal-only; matches page banner) | — | Do not resubmit with Gmail |
 | 2026-09-04 | NetBird | Backend (Go) | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-netbird-backend-go.md` | — | — |
 | 2026-09-04 | Sekai | AI Agent Engineer (Coding Agent) | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-sekai-ai-agent-engineer.md` | — | — |
-| 2026-09-04 | MintMCP | Software Engineer | Phase C soft SF hybrid | Ashby | **FORM PARTIAL** — text filled in browser; attach PDF; college degree Yes + not enrolled No still needed | hiring@mintmcp.com | Finish radios · **You Submit** |
+| 2026-09-04 | MintMCP | Software Engineer | Phase C soft SF hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-mintmcp-software-engineer.md` | — | — |
 | 2026-09-04 | Master-Works | AI, Engineer (Riyadh) | Phase B | Workable | **READY** — pack + `Muhammad_Ahmed_MasterWorks_AI_Engineer.pdf` · SAR 18–25k | — | Fill form · attach PDF · **You Submit** |
 | 2026-09-04 | Sanity | Senior Software Engineer, AI Growth | Phase C stretch | Ashby | **READY** — pack + `Muhammad_Ahmed_Sanity_AI_Growth.pdf` | — | Attach PDF · **You Submit** |
 | 2026-09-04 | Reducto | Agent Experience Engineer | Phase C | Ashby | **READY** — pack + `Muhammad_Ahmed_Reducto_Agent_Experience.pdf` | — | Attach PDF · **You Submit** |
