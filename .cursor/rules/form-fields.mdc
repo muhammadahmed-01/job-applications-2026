@@ -1,0 +1,30 @@
+---
+description: Live apply-form field map only — never dump the shared profile
+globs: "**/form-fields.md,APPLICATION-FORM-FIELDS.md"
+alwaysApply: false
+---
+
+# Application form fields
+
+`form-fields.md` is a **label-for-label map of the live apply form**. It is not a dump of `APPLICATION-FORM-FIELDS.md`.
+
+## Source of truth
+
+1. Open the **apply URL** in the browser (or equivalent: form_introspect / HTML of the apply form, not just the JD).
+2. Copy **every visible label** as it appears, including starred required, file uploads, dropdowns, and custom questions.
+3. Fill values from the shared profile **only for labels that exist**.
+4. Write `Checked live: YYYY-MM-DD` and the ATS type (JazzHR, Lever, CF7, Notion, Simplicant, …).
+
+## Banned
+
+- Generic rows that were not on the page: GitHub, salary, notice, current employer, cover paste, when those inputs do not exist.
+- Using the JD page as a substitute when apply is a different URL or a form below the fold.
+- Shipping `form-fields.md` before the live form was read.
+
+## If the form cannot be read
+
+Write `BLOCKED: <reason>` and stop. Do not invent fields.
+
+## Shared profile file
+
+`APPLICATION-FORM-FIELDS.md` is a **lookup table for values**. Per-role files own the field list.

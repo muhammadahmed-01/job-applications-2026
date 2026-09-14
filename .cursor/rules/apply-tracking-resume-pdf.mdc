@@ -1,0 +1,29 @@
+---
+description: APPLY-LOG is source of truth — prior date rows = APPLIED; never re-pack/re-submit duplicates
+alwaysApply: true
+---
+
+# Apply tracking + resume PDF attach
+
+## DECISION (Muhammad Ahmed, 4 Sep 2026)
+
+1. **`APPLY-LOG.md` is the source of truth.** A company+role that already appears on an **earlier date** means that application **was submitted** (or intentionally closed). Do **not** treat "pack ready / No" wording on old rows as unsubmitted if the user has stated prior dates = applied.
+2. **Before sourcing or filling**, read `APPLY-LOG.md` and skip any matching **company + role** (or same posting URL / same Pinpoint/Workable/Ashby job id).
+3. **Never open a second apply pack** for the same posting on a later `daily/` date. Mark as `DUPLICATE — already APPLIED YYYY-MM-DD` and stop.
+4. Soft-related roles (e.g. Tabby Backend II vs Tabby Senior Backend Remote) are **different** roles; only skip exact/same posting matches.
+
+## Every new pack (mandatory)
+
+1. Tailor `resume.md` for that role.
+2. Export PDF via `python scripts/md_resume_to_pdf.py <pack>/resume.md <pack>/Muhammad_Ahmed_<Company>_<Role>.pdf`
+3. **Upload the PDF** into the live form file input with browser `upload_file` before telling the user the pack is ready.
+4. Leave Submit for the user. Never click Submit.
+
+## APPLY-LOG status values
+
+| Status | Meaning |
+|--------|---------|
+| **APPLIED** | User submitted (prior-date rows default to this per DECISION) |
+| **FORM FILLED** | Agent filled + PDF attached; waiting on user Submit |
+| **SKIP / CLOSED / OUT** | Do not apply |
+| **DUPLICATE** | Same posting already APPLIED earlier |

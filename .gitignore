@@ -1,0 +1,50 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.log
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+**/secrets/**
+
+# Local browser / MCP state
+.mcp-stealth/
+**/storage_state*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Apply packs + PDFs (generated locally / by automation; not for public git)
+daily/
+01-*/
+02-*/
+03-*/
+04-*/
+05-*/
+06-*/
+07-*/
+08-*/
+09-*/
+10-*/
+
+# Extra local research / inventory (not required for automation)
+CAREEM-AI-PROOF.md
+GITHUB-INVENTORY.md
+HIRING-PLAYBOOK.md
+HUMANIZE-PASS-LOG.md
+LINKEDIN-BLOG-INVENTORY.md
+LOOM-PUBLIC-SAFE.md
+RECRUITER-AI-REVIEW.md
+RESUME-CHANGELOG.md
+APPLICATION-STRATEGY.md

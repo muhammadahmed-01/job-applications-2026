@@ -1,0 +1,45 @@
+---
+description: Daily apply cadence — remind if APPLY-LOG has no new APPLIED rows
+alwaysApply: true
+---
+
+# Apply cadence reminder (DECISION Muhammad, 11 Sep 2026)
+
+## Why
+
+Agents do not message the user between chats. Without an explicit check, multi-day gaps in applications go unnoticed. User wants a reminder when sourcing/apply work stalls.
+
+## On every chat that touches this repo (or job-search context)
+
+1. Read `APPLY-LOG.md`.
+2. Find the **latest date** with status **APPLIED**.
+3. Also list any rows still **FORM FILLED** / **READY** with **You Submit** (waiting on user).
+4. Compare to **today’s date** from user_info / system clock.
+5. Open the reply (or a clear early line) when **any** of these is true:
+   - **≥ 2 calendar days** with no new **APPLIED** row → **Apply cadence:** last APPLIED was `YYYY-MM-DD` (`N` days ago). Offer next shortlist/packs.
+   - Any **FORM FILLED** row is **≥ 1 calendar day** old → **Submit pending:** list company+role + pack date. Offer to re-open Ashby tabs + re-attach PDFs (forms do not stay open after Chrome closes).
+6. If a new **APPLIED** batch landed yesterday or today AND no stale FORM FILLED: no nag.
+7. Do **not** auto-apply, spend Connects, or Submit. Reminder + ask what to run next.
+
+## MEASURED limit (11 Sep 2026, updated 14 Sep)
+
+- AlwaysApply rules and agent chats **do not** message the user on days with no open chat.
+- Stealth Chrome tabs **do not** persist after the browser process exits.
+- Out-of-session pings require a **saved + enabled** Cursor Automation (schedule). Opening the Automations editor with a draft is not enough until the user saves/enables it.
+
+## Cadence target (DECISION)
+
+Aim for a **new shortlist + apply batch at least every 1–2 days** while Phase C sourcing is active, unless the user says pause.
+
+## Automation (follow-up)
+
+**DECISION 11 Sep 2026:** User wants a **daily** batch: five packs + forms filled (no Submit) ready every day while Phase C is active.
+
+Scheduled Cursor Automation should:
+1. Read APPLY-LOG.md (dedupe)
+2. Source 5 new Phase C live postings
+3. Build full packs + PDFs under `daily/YYYY-MM-DD/`
+4. Fill forms + attach PDFs; never Submit
+5. Ping user: FORM FILLED list + tabs
+
+Until that automation is live, this alwaysApply rule still nags on ≥2-day APPLIED gaps.

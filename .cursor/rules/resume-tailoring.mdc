@@ -1,0 +1,47 @@
+---
+description: Human-sounding resume tailoring — no AI tells, v4 voice baseline
+globs: "**/resume.md,**/cover-letter.md,RESUME-*.md"
+alwaysApply: false
+---
+
+# Resume Tailoring Rules
+
+**Baseline:** `Muhammad_Ahmed_Resume_v4.pdf` — engineer voice, verbs + numbers, incident names.
+
+## Core principle: grep is a floor, not a ceiling
+
+Banned phrases + `rg` catch obvious tells. **Grep clean ≠ human.** Before send: **read every line** — rhythm, specificity, would a recruiter believe a human wrote this at 11pm? Pattern scan is step one; line-by-line judgment is step two. Both required.
+
+**Beyond banned list:** uniform sentence length, triple adjectives, false enthusiasm ("I am excited to…"), perfect grammar with zero personality, stacked tech nouns without verbs, summary that reads like ChatGPT prompt output, cover letter that mentions company mission before your shipped work, "maps cleanly to" / "your posting lists" bridges, identical FinOps blurbs across all AI resumes.
+
+**Recruiter ear test:** read aloud mentally; if it sounds like a template, rewrite.
+
+## Banned on resumes (never write)
+
+- JD mirroring: "aligned with JD", "direct match for", "demonstrates RAG/MLOps JD requirements", quoting company blog/manifesto lines, the word "JD" on the resume
+- Hedge words: `-adjacent` (GraphQL-adjacent, Azure-adjacent, Firebase-adjacent, JIRA-adjacent, MLOps-adjacent, OpenTelemetry-adjacent)
+- Buzzword stacking: spearheaded, orchestrated, leveraged (overuse), AI-first mindset, eval-oriented development, eval discipline as fake Careem work
+- Title inflation without proof: Agentic AI Engineer, SE II, Senior Python Engineer (3 YOE) — use **Backend Software Engineer** unless role title is cover-letter-only
+- "Stretch apply" / "stretch" on resume
+- Over-bridging: contract testing → eval suites; ledger lab → guardrail design; Redis observability → MLOps for AI (one honest bridge max per bullet)
+
+## Required voice
+
+1. Lead with verbs and metrics (30 min→60 sec, 83% cost, 8s→<1s, 300k RPM)
+2. Keep v4 Careem labels where possible: AI-Driven Tooling, Latency Engineering, Observability Engineering, Production Reliability, Quality & Architecture, Cloud Cost Optimization
+3. Keep incident names: ride counter sync, memory leaks, promo trigger bugs
+4. Mirror keywords **implicitly** through real work — never paste JD phrases back
+5. Differentiate per company with 1–2 real additions (e.g. Folio3 internship), not full skeleton rewrites with renamed bold prefixes
+
+## Pre-finalize checklist
+
+- [ ] **Read every line** — not just grep; judge rhythm, specificity, believability per sentence
+- [ ] Zero banned phrases (grep: adjacent, aligned with, JD, direct match, stretch, spearhead, orchestrat, leveraged, AI-first, maps cleanly, I am excited, intersection of)
+- [ ] Headline matches v4 unless cover letter carries role-specific title
+- [ ] FinOps AI Gateway paragraph not copy-pasted verbatim across all AI resumes — trim per role
+- [ ] Scope notes: FinOps lab disclaimer OK; do **not** paste “I have not led / I have not built …” self-disqualify essays in covers or Ashby pastes (**DECISION** Muhammad, 8 Sep 2026)
+- [ ] Cover letter leads with shipped work, not mission mirroring or false enthusiasm
+- [ ] Ashby “How did you hear about us?”: prefer **LinkedIn**; **Other** often fails to stick and triggers “Missing entry” on Submit
+- [ ] Recruiter ear test: sounds like Muhammad Ahmed at 11pm, not ChatGPT
+
+See `RESUME-TAILORING-RULES.md` for full banned list and examples.
