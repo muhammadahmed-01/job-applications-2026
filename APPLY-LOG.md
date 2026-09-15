@@ -49,7 +49,7 @@
 | 2026-09-08 | fab2 | Software Engineer, AI Platform | Phase C hard onsite | Ashby | **APPLIED** — GitHub portfolio · EAR No/No · hear-about may need reselect | — | Submitted (user) |
 | 2026-09-11 | Auctor | Software Engineer, Applied AI | Phase C soft onsite | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-auctor-applied-ai.md` | — | — |
 | 2026-09-11 | Maybern | Senior Software Engineer, AI | Phase C soft hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-maybern-senior-swe-ai.md` | — | — |
-| 2026-09-11 | Serval | Software Engineer, Agent Systems | Phase C soft onsite | Ashby | **FORM FILLED** — PDF attached · SF HQ 5-day No · essays filled · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
+| 2026-09-11 | Serval | Software Engineer, Agent Systems | Phase C soft onsite | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-serval-agent-systems.md` | — | — |
 | 2026-09-11 | Euphoric Global | Software Engineer (Applied AI) | Phase C soft remote PT | Ashby | **FORM FILLED** — PDF attached · Portugal remote soft gate · AI-tools essay · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-11 | PermitFlow | Applied AI Engineer | Phase C soft hybrid | Ashby | **FORM FILLED** — PDF attached · NYC hybrid soft gate · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
 | 2026-09-14 | Slash Financial | Applied AI Engineer | Phase C soft onsite | Ashby | **FORM FILLED** — PDF attached · SF On-site soft gate · Name/Email/Resume only · **You Submit** | — | Submit in open tab · instance `sep14-mcp-packs` |
