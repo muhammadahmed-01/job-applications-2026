@@ -41,7 +41,7 @@
 | 2026-09-07 | Cohere | Software Engineer, Agents & Automations | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-cohere-agents-automations.md` | — | — |
 | 2026-09-07 | WorkHero | Senior Software Engineer, AI Full Stack | Phase C stretch | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-workhero-ai-full-stack.md` | — | — |
 | 2026-09-07 | Gravie | Senior Software Engineer, Applied AI | Phase C stretch | Ashby | **BLOCKED** — Ashby: applied within past 30 days · `submit-logs/2026-09-15-gravie-applied-ai-blocked.md` | — | Do not re-submit |
-| 2026-09-07 | RevenueCat | Senior Software Engineer, Agents | Phase C hard stretch | Ashby | **FORM FILLED** — PDF attached · essays A–F · sponsorship No (Lahore) · GDPR not EEA · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
+| 2026-09-07 | RevenueCat | Senior Software Engineer, Agents | Phase C hard stretch | Ashby | **BLOCKED** — Ashby: already received application · `submit-logs/2026-09-15-revenuecat-agents-blocked.md` | — | Do not re-submit |
 | 2026-09-08 | WorkOS | Applied AI Engineer | Phase C | Ashby | **APPLIED** — US auth No · sponsorship Yes · US/CA Remote soft gate | — | Submitted (user) |
 | 2026-09-08 | LangChain | Fullstack Software Engineer, Applied AI | Phase C soft onsite | Ashby | **APPLIED** — sponsorship Yes · SF/NY OnSite soft gate | — | Submitted (user) |
 | 2026-09-08 | Tessera Labs | AI Engineer | Phase C soft hybrid | Ashby | **APPLIED** — Hybrid SJ/NYC soft gate · auth No / sponsorship Yes | — | Submitted (user) |
