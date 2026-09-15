@@ -36,7 +36,7 @@
 | 2026-09-06 | Clay Labs | Software Engineer, Applied AI | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-clay-labs-software-engineer-applied-ai.md` | — | — |
 | 2026-09-06 | Monte Carlo | Applied AI Engineer | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-monte-carlo-applied-ai.md` | — | — |
 | 2026-09-06 | Sanity | Senior Software Engineer, Content Agent | Phase C stretch | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-sanity-content-agent.md` | — | — |
-| 2026-09-06 | Infinity (Constellation) | Full Stack AI Engineer | Phase C | Ashby | **FORM FILLED** — PDF attached · team Infinity Constellation · **You Submit** | — | Do not re-pack · Submit in open Ashby tab |
+| 2026-09-06 | Infinity (Constellation) | Full Stack AI Engineer | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-infinity-full-stack-ai.md` | — | — |
 | 2026-09-07 | Luminary | Software Engineer - Applied AI | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) 2026-09-14 · `submit-logs/2026-09-14-luminary-software-engineer-applied-ai.md` | — | — |
 | 2026-09-07 | Cohere | Software Engineer, Agents & Automations | Phase C | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-14-cohere-agents-automations.md` | — | — |
 | 2026-09-07 | WorkHero | Senior Software Engineer, AI Full Stack | Phase C stretch | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-15-workhero-ai-full-stack.md` | — | — |
