@@ -197,6 +197,72 @@
 
 ---
 
+
+---
+
+## Company problems → role map (2026-09-17 batch — packs only; no Submit yet)
+
+### Kantiv (Joist AI)
+
+**Company problem (MEASURED):** AEC marketing/revenue ops are slow and fragmented; Kantiv builds agentic proposal-writing apps (tools, memory, MCP, evals) so teams ship proposals faster.
+
+**Role ready:** Agentic Systems Engineer (2–4 YOE)  
+**Apply:** https://jobs.ashbyhq.com/kantiv/d28a422f-970b-4ad8-869f-a8d02deda68f/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Multi-agent orchestration / MCP servers / skills | Production MCP + Slack HITL |
+| Memory / retrieval / evals | FinOps RAG + RAGAS lab (personal) |
+| Production plumbing | Careem Go/Java services + on-call |
+
+**Soft gates:** Remote India · YOE fit 2–4 · `build_candidate: undecided`
+
+### Moss
+
+**Company problem (MEASURED):** Finance teams need to automate day-to-day spend/ops decisions; Moss ships product AI agents (not research prototypes) into production finance workflows.
+
+**Role ready:** Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/moss/a4cd2807-aabc-4dfb-9256-0b3736582efe/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agent features end-to-end + evals | MCP Slack agent + lab RAGAS |
+| RAG / MCP / context engineering | Prod MCP; FinOps RAG lab |
+| Python/Java backend | Java/Go day stack; Python lab |
+
+**Soft gates:** Warsaw · Series C unicorn · `build_candidate: undecided`
+
+### Manex
+
+**Company problem (MEASURED):** Manufacturing data is siloed across machines/sensors/legacy systems; Manex builds ontology + agentic apps (MCP, tools, sandboxes, observability) over factory data.
+
+**Role ready:** AI Agent Engineer  
+**Apply:** https://jobs.ashbyhq.com/manex/ef561ded-cda1-494f-a00b-821ccc10bbf9/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| MCP infra / tools / subagents | Production MCP Server |
+| Eval / observability / sandboxing | Dynatrace on-call; lab evals; sandbox gap honest |
+| Python/TS agents | Python lab; Go/Java prod |
+
+**Soft gates:** Munich · `build_candidate: undecided`
+
+### Planera
+
+**Company problem (MEASURED):** Construction schedulers need a reliable AI assistant (Manny) on a CPM platform; agent quality must stay high via LangGraph tools, multi-provider LLMs, MCP tool server (Go), and evals.
+
+**Role ready:** Senior AI Agent Engineer  
+**Apply:** https://jobs.ashbyhq.com/planera/d68c8a09-a11d-409e-85ca-5d434caf3fc8/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| LangGraph/agent loops + tool calling | Slack HITL agent loop |
+| MCP tool server (Go) | Prod MCP; Go day stack |
+| Evals / observability | Lab RAGAS; Dynatrace |
+
+**Soft gates:** United States · 4+ YOE ask (honest 3) · `build_candidate: undecided`
+
+
 ## Compact log (filtering)
 
 | date | company | role | phase | company_problem_one_liner | best_proof_hook | soft_gates | build_candidate |
@@ -434,6 +500,10 @@
 | 2026-09-14 | GIC | Applied AI Agent | C | Cofounder agent reliability + evals + tool-calling | HITL agents + MCP; evals lab | NYC On-site | undecided |
 | 2026-09-14 | Runlayer | Integrations Engineer | C | MCP/Skills/Agents coverage + OAuth broker | Prod MCP + on-call | NYC hybrid / US TZ | undecided |
 | 2026-09-14 | WRITER | Connectors & MCP | C | Enterprise AI integration / MCP connectors | MCP + APIs + on-call | Hybrid SF/NYC/Seattle | undecided |
+| 2026-09-17 | Kantiv | Agentic Systems Engineer | C | AEC proposal agents via MCP/memory/evals | MCP + HITL; YOE fit | Remote India | undecided |
+| 2026-09-17 | Moss | Applied AI Engineer | C | Finance product agents in production | MCP + payments reliability | Warsaw | undecided |
+| 2026-09-17 | Manex | AI Agent Engineer | C | Factory ontology + MCP agent stack | Prod MCP; sandbox gap | Munich | undecided |
+| 2026-09-17 | Planera | Senior AI Agent Engineer | C | CPM scheduling agent Manny + Go MCP tools | Go + MCP + HITL | US; 4+ YOE stretch | undecided |
 
 ## Pattern note (MEASURED count from 2026-09-14 batch only)
 
