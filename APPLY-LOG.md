@@ -56,8 +56,8 @@
 | 2026-09-14 | PressW | Applied AI Engineer – MSP | Phase C soft hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-16-pressw-applied-ai-msp.md` | — | — |
 | 2026-09-14 | Runlayer | Integrations Engineer | Phase C soft hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-16-runlayer-integrations.md` | — | — |
 | 2026-09-14 | WRITER | Software engineer, connectors & MCP | Phase C soft hybrid | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-16-writer-connectors-mcp.md` | — | — |
-| 2026-09-14 | GIC (General Intelligence Company) | Applied AI Engineer - Agent | Phase C soft onsite | Ashby | **FORM FILLED** — PDF ready · NYC soft gate · auth No · sponsorship Yes · **BLOCKED 2026-09-17** — executor no computerUse · `submit-logs/2026-09-17-gic-applied-ai-agent-blocked.md` | — | Parent re-dispatch Task/computerUse · fill+attach+Submit |
-| 2026-09-17 | Kantiv (Joist AI) | Agentic Systems Engineer | Phase C soft remote | Ashby | **READY** — pack + `Muhammad_Ahmed_Kantiv_Agentic_Systems.pdf` · 2–4 YOE MCP/agents · Remote India soft gate | — | computerUse fill+Submit |
-| 2026-09-17 | Moss | Applied AI Engineer | Phase C soft onsite | Ashby | **READY** — pack + `Muhammad_Ahmed_Moss_Applied_AI.pdf` · Warsaw soft gate · agents/MCP/RAG | — | computerUse fill+Submit |
-| 2026-09-17 | Manex | AI Agent Engineer | Phase C soft onsite | Ashby | **READY** — pack + `Muhammad_Ahmed_Manex_AI_Agent.pdf` · Munich soft gate · MCP agent stack | — | computerUse fill+Submit |
-| 2026-09-17 | Planera | Senior AI Agent Engineer | Phase C soft remote | Ashby | **READY** — pack + `Muhammad_Ahmed_Planera_Senior_AI_Agent.pdf` · US soft gate · MCP+Go · 4+ YOE stretch (honest 3) | — | computerUse fill+Submit |
+| 2026-09-14 | GIC (General Intelligence Company) | Applied AI Engineer - Agent | Phase C soft onsite | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-17-gic-applied-ai-agent.md` | — | — |
+| 2026-09-17 | Kantiv (Joist AI) | Agentic Systems Engineer | Phase C soft remote | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-17-kantiv-agentic-systems.md` | — | — |
+| 2026-09-17 | Moss | Applied AI Engineer | Phase C soft onsite | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-17-moss-applied-ai.md` | — | — |
+| 2026-09-17 | Manex | AI Agent Engineer | Phase C soft onsite | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-17-manex-ai-agent.md` | — | — |
+| 2026-09-17 | Planera | Senior AI Agent Engineer | Phase C soft remote | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-17-planera-senior-ai-agent.md` | — | — |
