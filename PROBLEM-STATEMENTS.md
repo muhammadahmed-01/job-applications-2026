@@ -263,6 +263,7 @@
 **Soft gates:** United States · 4+ YOE ask (honest 3) · `build_candidate: undecided`
 
 
+
 ## Compact log (filtering)
 
 | date | company | role | phase | company_problem_one_liner | best_proof_hook | soft_gates | build_candidate |
@@ -277,6 +278,7 @@
 | 2026-09-08 | Tessera Labs | AI Engineer | C | Governed multi-agent enterprise transformation with HITL | HITL writes + MCP | Hybrid SJ/NYC | undecided |
 | 2026-09-08 | Cohere | FDE Agentic Platform West | C | North FDE: reliable/observable/auditable agent workflows | Agents + reliability; travel gap | US/CA remote; 20–40% travel | undecided |
 | 2026-09-08 | fab2 | SWE AI Platform | C | Greenfield fab AI platform: agents, MCP, sandboxes, evals | MCP + HITL agents | OnSite SF/Austin; EAR | undecided |
+
 
 ## Pattern note (MEASURED count from 2026-09-08 batch only)
 
@@ -475,6 +477,98 @@
 
 ---
 
+
+## Company problems → role map (2026-09-18 batch)
+
+### 1. ImagineArt (rank 1)
+
+**Company problem (MEASURED):** Own Superagent — core agent harness for conversations, tool calls, and multi-step agentic workflows (orchestration loop, context/memory, streaming, retries, evaluation, observability, multi-LLM routing).
+
+**Role ready:** Agent Infrastructure Engineer — Core Harness (Superagent)  
+**Apply:** https://jobs.ashbyhq.com/imagineart/8c508ce3-ef15-473e-8a55-42e2f23432d7/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agent execution loop / tool routing | Slack HITL tool agent |
+| MCP / tool ecosystems | Production MCP |
+| Evals / observability | FinOps RAGAS lab; Dynatrace |
+| Python/TS · 4+ YOE | ~3 YOE; Go/Java day; Python lab |
+
+**Soft gates:** Remote India · `build_candidate: undecided`
+
+---
+
+### 2. ClickUp (rank 2)
+
+**Company problem (MEASURED):** Foundry internal AI lab builds MCP server platform (CRM/ticketing/analytics → agents) plus multi-step GTM agent orchestration with Okta PKCE/RBAC on AWS Bedrock/Lambda/ECS.
+
+**Role ready:** Senior Software Engineer, Internally Deployed Products  
+**Apply:** https://jobs.ashbyhq.com/clickup/3dddfea4-7c61-4a98-85a7-c9ea230791ca/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| MCP servers / tool schemas | Production MCP |
+| Agent orchestration | Slack HITL multi-step |
+| Observability / on-call | Tier-1 Dynatrace |
+| Senior · AWS Bedrock | ~3 YOE stretch; AWS SAA |
+
+**Soft gates:** Remote United States · sponsorship Yes · `build_candidate: undecided`
+
+---
+
+### 3. OpenArt (rank 3)
+
+**Company problem (MEASURED):** Agent harness for creative products (e.g. Director): tool use, context/memory, multi-step planning, sub-agent orchestration, MCP servers/CLI tooling for creative pipelines.
+
+**Role ready:** Software Engineer, Agent  
+**Apply:** https://jobs.ashbyhq.com/openart/3dad78e1-8e1f-4dc6-b042-3537b4beec46/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agent harness / tool use | Slack HITL + MCP |
+| MCP servers / CLI tooling | Production MCP |
+| Production reliability | Payments on-call |
+
+**Soft gates:** Hybrid San Carlos · relocation Yes · sponsorship Yes · `build_candidate: undecided`
+
+---
+
+### 4. Output (rank 4)
+
+**Company problem (MEASURED):** Agent infrastructure for a biological reasoning model — orchestration, skills/tools, inference serving, MCP-compatible APIs, internal research tooling.
+
+**Role ready:** Software Engineer, Agents  
+**Apply:** https://jobs.ashbyhq.com/output/f02365c0-bdaa-435b-b960-778db4537c16/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agent orchestration / MCP APIs | MCP + HITL |
+| Production Python APIs | Python lab; Go/Java day |
+| Inference serving | Gap: ramp |
+| Biology domain | Gap: new domain |
+
+**Soft gates:** OnSite NYC 5-day · relocation soft Yes · US auth No / sponsorship Yes · `build_candidate: undecided`
+
+---
+
+### 5. Intangible (rank 5)
+
+**Company problem (MEASURED):** Spatial intelligence for creatives — MCP servers at scale, agentic pipelines (intent/entities), knowledge graphs, LLM-driven creative workflows.
+
+**Role ready:** Applied AI/ML Engineer  
+**Apply:** https://jobs.ashbyhq.com/intangible.ai/00070f85-07f9-49a3-aaf1-597c153b807b/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| MCP servers at scale | Production MCP |
+| Agentic pipelines | Slack HITL tool loops |
+| Knowledge graphs / 3D ML | Gap: ramp |
+| NA/EU timezone | Yes overlap from Asia/Karachi |
+
+**Soft gates:** Remote · US auth without sponsorship No · `build_candidate: undecided`
+
+---
+
 ## Compact log (filtering)
 
 
@@ -504,6 +598,11 @@
 | 2026-09-17 | Moss | Applied AI Engineer | C | Finance product agents in production | MCP + payments reliability | Warsaw | undecided |
 | 2026-09-17 | Manex | AI Agent Engineer | C | Factory ontology + MCP agent stack | Prod MCP; sandbox gap | Munich | undecided |
 | 2026-09-17 | Planera | Senior AI Agent Engineer | C | CPM scheduling agent Manny + Go MCP tools | Go + MCP + HITL | US; 4+ YOE stretch | undecided |
+| 2026-09-18 | ImagineArt | Agent Infra Superagent | C | Superagent harness: tools/memory/evals/obs | MCP + HITL; evals lab | Remote IN; 4+ YOE | undecided |
+| 2026-09-18 | ClickUp | SWE Internally Deployed | C | Foundry MCP platform + GTM agents | Prod MCP + on-call | Remote US; Senior stretch | undecided |
+| 2026-09-18 | OpenArt | SWE Agent | C | Creative agent harness + MCP tooling | HITL agents + MCP | Hybrid SF | undecided |
+| 2026-09-18 | Output | SWE Agents | C | Bio model agent infra + MCP APIs | MCP + HITL; bio gap | OnSite NYC | undecided |
+| 2026-09-18 | Intangible | Applied AI/ML | C | Spatial AI: MCP + agentic pipelines | MCP; 3D ML gap | Remote NA/EU TZ | undecided |
 
 ## Pattern note (MEASURED count from 2026-09-14 batch only)
 
