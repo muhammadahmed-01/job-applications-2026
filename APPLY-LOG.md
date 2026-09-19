@@ -70,4 +70,4 @@
 | 2026-09-19 | Axelera AI | AI Systems Engineer - Agents & Inference | Phase C soft hybrid NL | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-19-axelera-ai-systems-engineer-agents.md` | — | computerUse fill+Submit |
 | 2026-09-19 | Sticker Mule | AI agent engineer | Phase C soft remote | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-19-stickermule-ai-agent-engineer.md` | — | computerUse fill+Submit |
 | 2026-09-19 | Arena Intelligence | Applied AI Engineer | Phase C soft hybrid Bay Area | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-19-arena-applied-ai.md` | — | computerUse fill+Submit |
-| 2026-09-19 | Kaizen Labs | Software Engineer, Applied AI | Phase C soft hybrid NYC | Ashby | **READY** — pack + `Muhammad_Ahmed_Kaizen_Software_Engineer_Applied_AI.pdf` · NYC 3d soft Yes · sponsorship Yes | — | computerUse fill+Submit |
+| 2026-09-19 | Kaizen Labs | Software Engineer, Applied AI | Phase C soft hybrid NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-19-kaizen-software-engineer-applied-ai.md` | — | computerUse fill+Submit |
