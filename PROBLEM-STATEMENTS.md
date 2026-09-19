@@ -264,6 +264,94 @@
 
 
 
+
+## Company problems → role map (2026-09-19 batch)
+
+### 1. Fieldguide (rank 1)
+
+**Company problem (MEASURED):** Automate assurance/audit work (cybersecurity, privacy, financial audits). Foundation Agents owns long-horizon agents — agent knowledge, evaluations, quality/reliability at scale.
+
+**Role ready:** Software Engineer, Agents (Foundation Agents)  
+**Apply:** https://jobs.ashbyhq.com/fieldguide/ec60ae0f-7638-4859-b65a-6c8446fdd7db/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agent knowledge / eval infra | FinOps RAGAS lab; HITL production gate |
+| Long-horizon agents / error analysis | Slack HITL tool loops; Dynatrace incident debugging |
+| Backend execution / monitoring | Go/Java payments + on-call |
+
+**Soft gates:** Hybrid SF · sponsorship Yes · SF relocate No · `build_candidate: undecided`
+
+---
+
+### 2. Axelera AI (rank 2)
+
+**Company problem (MEASURED):** Next-gen AI platform (Metis); Wingman / agentic AI needs reliable agents, secure execution environments, integrations; model deploy validates the platform.
+
+**Role ready:** AI Systems Engineer - Agents & Inference  
+**Apply:** https://jobs.ashbyhq.com/axelera/2333a74a-f83c-41e4-97fe-1384bc69838b/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agentic harness / loops | Prod MCP + HITL |
+| Cloud deploy AWS/GCP | AWS SAA + Careem AWS |
+| LLM + CV model deploy | LLM agents yes; CV No (form Boolean) |
+
+**Soft gates:** Netherlands hybrid / remote team · `build_candidate: undecided`
+
+---
+
+### 3. Sticker Mule (rank 3)
+
+**Company problem (MEASURED):** Commerce + manufacturing + AI stack; hire engineer to build/run AI agents that improve ops and customer service, measure results, remove weak agents.
+
+**Role ready:** AI agent engineer  
+**Apply:** https://jobs.ashbyhq.com/stickermule/2f01bd23-9eda-446a-a56a-b530d84cb9bb/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Build/manage agents + tools | MCP + Slack HITL |
+| Measure / kill bad agents | Latency + reliability culture |
+| Go/TS/GraphQL/Postgres | Go day; TS ramp |
+
+**Soft gates:** Remote solely · `build_candidate: undecided`
+
+---
+
+### 4. Arena Intelligence (rank 4)
+
+**Company problem (MEASURED):** Real-world AI model evaluation platform; partner with AI labs on integrations/evals and ship customer engineering solutions.
+
+**Role ready:** Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Lab customer delivery / evals | HITL delivery ownership; RAGAS lab |
+| Ship pragmatic engineering | Careem production shipping |
+| Frontend/TS depth | Gap: FE ramp |
+
+**Soft gates:** Bay Area hybrid · US auth No · sponsorship Yes · `build_candidate: undecided`
+
+---
+
+### 5. Kaizen Labs (rank 5)
+
+**Company problem (MEASURED):** Replace legacy government systems; AI-native modules; internal tools like Bidbuddy reclaim hours from manual RFP/ops work for a small team serving millions of residents.
+
+**Role ready:** Software Engineer, Applied AI  
+**Apply:** https://jobs.ashbyhq.com/kaizenlabs/fea8a38f-0f22-47d6-bbf9-a72ef6bb215c/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Internal AI tools E2E | MCP Slack agent owned through HITL |
+| Document parsing / agentic workflows | FinOps RAG lab; HITL loops |
+| Rollout until adoption | Stakeholder delivery at Careem |
+
+**Soft gates:** NYC HQ 3 days/week soft Yes · sponsorship Yes · federal projects Yes · `build_candidate: undecided`
+
+---
+
 ## Compact log (filtering)
 
 | date | company | role | phase | company_problem_one_liner | best_proof_hook | soft_gates | build_candidate |
@@ -603,6 +691,11 @@
 | 2026-09-18 | OpenArt | SWE Agent | C | Creative agent harness + MCP tooling | HITL agents + MCP | Hybrid SF | undecided |
 | 2026-09-18 | Output | SWE Agents | C | Bio model agent infra + MCP APIs | MCP + HITL; bio gap | OnSite NYC | undecided |
 | 2026-09-18 | Intangible | Applied AI/ML | C | Spatial AI: MCP + agentic pipelines | MCP; 3D ML gap | Remote NA/EU TZ | undecided |
+| 2026-09-19 | Fieldguide | SWE Agents Foundation | C | Long-horizon audit agents + evals | MCP + HITL; lab evals | Hybrid SF; relocate No | undecided |
+| 2026-09-19 | Axelera AI | AI Systems Agents & Inference | C | Wingman agentic platform + inference | MCP + AWS; CV gap | NL hybrid/remote | undecided |
+| 2026-09-19 | Sticker Mule | AI agent engineer | C | Commerce/manufacturing ops agents | MCP + HITL | Remote | undecided |
+| 2026-09-19 | Arena | Applied AI Engineer | C | Real-world model evals for AI labs | HITL delivery; lab evals | Bay Area hybrid | undecided |
+| 2026-09-19 | Kaizen | SWE Applied AI | C | Gov internal AI tools (Bidbuddy-class) | MCP HITL internal tools | NYC hybrid soft | undecided |
 
 ## Pattern note (MEASURED count from 2026-09-14 batch only)
 
