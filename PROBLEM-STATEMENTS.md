@@ -709,3 +709,54 @@
 ## Review ritual
 
 Every few days: cluster themes → if ≥3 share the same thin-slice shape, consider one evening build that amplifies Careem MCP/HITL, not a vibe SaaS. Flip `build_candidate` with a date.
+
+## OpenRouter — Applied AI Engineer (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d/application  
+**Ashby id:** `407f71b5-4b1f-4666-91bd-394f3c26f19d`  
+**Arrangement:** Remote (US) · Soft-gate geo/visa  
+**Fit:** Internal agentic tooling for support/GTM on OpenRouter; evals/guardrails/adoption.
+
+## Sela AI — Software Engineer - Agent Orchestration (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/sela/a46d4647-da24-41b8-98e3-06840633a571/application  
+**Ashby id:** `a46d4647-da24-41b8-98e3-06840633a571`  
+**Arrangement:** Hybrid SF 4d/wk · Soft-gate (answered No to in-office)  
+**Fit:** AI voice agent orchestration for mortgage; production agent backends.
+
+## Hostinger — Full Stack Engineer (Automation & AI Agents) (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/hostinger/663cba02-0ed7-4629-b0ef-546fe4e397f6/application  
+**Ashby id:** `663cba02-0ed7-4629-b0ef-546fe4e397f6`  
+**Arrangement:** Hybrid Vilnius / remote team soft-gate  
+**Fit:** DEX Slack AI + Hex coding agent; delivery automation platforms.
+
+## Rifa AI — Agent Engineer (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/rifa/6259bcda-b8ad-4e56-977a-9a7dfe5af7ed/application  
+**Ashby id:** `6259bcda-b8ad-4e56-977a-9a7dfe5af7ed`  
+**Arrangement:** Remote US  
+**Fit:** Contact-center agents for regulated industries; eval gates + observability.
+
+## Nebulock — Senior Software Engineer - Agents (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/nebulock/47e65a18-cf06-425d-b6e9-0099fd9f331c/application  
+**Ashby id:** `47e65a18-cf06-425d-b6e9-0099fd9f331c`  
+**Arrangement:** Remote US (or Hybrid Boston soft-gate)  
+**Fit:** Hunt/detection agent infrastructure; TRACE graph / knowledge stores.
+
+## HiPeople — Applied AI Engineer – Systems & Reliability (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442/application  
+**Ashby id:** `6c330d7b-7c6d-4993-8893-b58b5289d442`  
+**Arrangement:** Remote (Berlin-based soft)  
+**Fit:** Applied AI systems & reliability; agents + observability.
+
+
+## FriendliAI — Software Engineer – AI Agents (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/friendliai/6b7dbaf7-8751-402e-b253-ad968f7dc362/application  
+**Ashby id:** `6b7dbaf7-8751-402e-b253-ad968f7dc362`  
+**Arrangement:** Hybrid SF 2–3d soft-gate (answered No)  
+**Fit:** AI agents engineering.
+
