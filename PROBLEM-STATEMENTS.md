@@ -760,3 +760,84 @@ Every few days: cluster themes → if ≥3 share the same thin-slice shape, cons
 **Arrangement:** Hybrid SF 2–3d soft-gate (answered No)  
 **Fit:** AI agents engineering.
 
+
+## 2026-09-21 Phase C batch
+
+### Anrok — Software Engineer, Agentic AI Infrastructure (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/anrok/a11b3600-9820-44af-ac8e-bdafe037f504/application  
+**Ashby id:** `a11b3600-9820-44af-ac8e-bdafe037f504`  
+**Arrangement:** Remote OK · San Francisco, California, United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** Anrok is the leading tax automation platform enabling businesses to expand globally without compliance complexity. As the digital economy has grown 6x over the last decade, software businesses have gone from not worrying about sales tax to needing to monitor exposure, calculate rates, and file returns across 50 US jurisdictions and 100+ countries. This creates a critical bottle  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Iambic Therapeutics — Software Engineer — Agentic data pipelines (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac/application  
+**Ashby id:** `ed5c9548-a170-4a73-ade7-2f710d009fac`  
+**Arrangement:** Remote OK · San Diego, California, United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** JOB SUMMARY We are seeking a software engineer to join our team at Iambic Therapeutics, working on data acquisition and curation for Enchant, our multimodal transformer model trained at scale on a wide variety of biomedical data. In this role, you will design and build agentic systems that generate code to acquire, clean, format, quality-control, and generate auditable data rep  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Cartesia — Software Engineer, Agent Harness (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/cartesia/16cd6cd7-454b-4e44-9a04-6a4677a3e920/application  
+**Ashby id:** `16cd6cd7-454b-4e44-9a04-6a4677a3e920`  
+**Arrangement:** On-site · San Francisco, California, United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** About Cartesia Our mission is to architect AI that learns from and interacts with the world like humans do. We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficient, large-scale foundation models. Our team combines deep experti  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Chariot — Software Engineer, Agentic Infrastructure (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/chariot/245b08e2-c687-419c-aa7f-b939840b7967/application  
+**Ashby id:** `245b08e2-c687-419c-aa7f-b939840b7967`  
+**Arrangement:** Hybrid · New York, New York, United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** Job Description Over the past 2 years, Chariot has grown 1300% YoY. As we continue to scale from tens of thousand of nonprofits to hundreds of thousands, our systems, particularly those used by our GTM, Ops, and Compliance teams, needs to evolve from manual or semi-automated to fully automated, well-architected and engineered. That's where this role comes in: Chariot Labs is ou  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Decagon — Software Engineer, Agents (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18/application  
+**Ashby id:** `28366d07-ae89-428c-8593-1840591bfc18`  
+**Arrangement:** On-site · London, England, United Kingdom · Soft-gate geo/visa  
+**JD snip (MEASURED):** About Decagon Decagon is the leading conversational AI platform empowering every brand to deliver concierge customer experiences. Our technology enables industry-defining enterprises like Avis Budget Group, Block’s Cash App and Square, Chime, Oura Health, and Hunter Douglas to deploy AI agents that power personalized, deeply satisfying interactions across voice, chat, email, SM  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Displai — Software Engineer, Agentic AI (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/displai/14171ec3-2ba9-4e54-9a06-80b63855d4be/application  
+**Ashby id:** `14171ec3-2ba9-4e54-9a06-80b63855d4be`  
+**Arrangement:** Hybrid · United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** About Displai We support businesses and organizations with seamless digital experiences that create connection in the public square. Using a first-of-its-kind technology, Displai reimagines and transforms customer experiences through dynamic and interactive digital signage. Built with both people and businesses in mind, Displai focuses on the experience, allowing companies to c  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Horizon3 — Senior Software Engineer, Agentic Systems (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222/application  
+**Ashby id:** `e36e9f43-c831-43ac-85b3-782b28bef222`  
+**Arrangement:** Remote OK · United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find, fix, and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZero™ platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest inter  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### LiveFlow — Software Engineer - AI Agents (Phase C)
+
+**Apply:** https://jobs.ashbyhq.com/liveflow/e1ba2bad-030a-4bc2-9bbd-f1375f712a57/application  
+**Ashby id:** `e1ba2bad-030a-4bc2-9bbd-f1375f712a57`  
+**Arrangement:** Hybrid · San Francisco, California, United States · Soft-gate geo/visa  
+**JD snip (MEASURED):** San Francisco, CA (Hybrid – 3 days onsite) About LiveFlow LiveFlow is building the next-generation accounting and finance platform - enabling lean finance teams to run massive enterprises. We’ve raised over $21M from top-tier investors including YC, YC Continuity, Valar, Seedcamp, WndrCo, Moonfire, and Bradley Horowitz (VP Product, Google). Today, thousands of companies rely on  
+**Fit:** Careem production MCP + Slack HITL; FinOps RAGAS lab personal; ~3 YOE; sponsorship Yes.  
+**build_candidate:** undecided
+
+### Matter Intelligence — Applied AI Engineer (Product) (Phase C)
+**Apply:** https://jobs.ashbyhq.com/matter-intelligence/d563c94e-5bf5-4492-8b0a-7cc11c1b4ea1/application  
+**Ashby id:** `d563c94e-5bf5-4492-8b0a-7cc11c1b4ea1`  
+**Arrangement:** On-site SF soft-gate  
+**Fit:** Applied AI product; minimal form.
+
