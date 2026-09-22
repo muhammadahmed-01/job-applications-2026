@@ -990,3 +990,36 @@ Every few days: cluster themes → if ≥3 share the same thin-slice shape, cons
 **Company problem:** Security Agent / agentic security systems at Datadog.
 
 **Why me:** Careem MCP + payments security mindset; soft-gate EU remote; stretch Staff.
+
+## Niural
+Phase C soft (Nepal listing). Applied AI / EMMA orchestration agents. Applied 2026-09-22 evening.
+
+## Cognition
+Phase C soft. Devin/Windsurf agent infra. Applied 2026-09-22 evening.
+
+## Sierra
+Phase C soft. Software Engineer, Agent. Applied 2026-09-22 evening.
+
+## Ramp
+Phase C soft NYC. Applied AI Engineer. Applied 2026-09-22 evening.
+
+## Perplexity
+Phase C soft. MTS Applied AI. Applied 2026-09-22 evening.
+
+## Mintlify
+Phase C soft SF. Applied AI Engineer. Applied 2026-09-22 evening.
+
+## Temporal
+Phase C soft remote US. Staff SWE AI Agent Optimization. Applied 2026-09-22 evening.
+
+## Browserbase
+Phase C soft SF. SWE Agent Platform. Applied 2026-09-22 evening.
+
+## Replit
+Phase C soft Foster City. Staff SWE Agent Platform. Applied 2026-09-22 evening.
+
+## OpenAI (Codex Core Agents)
+Phase C soft London. Software Engineer, Codex Core Agents (distinct from Quants spam BLOCKED). Applied 2026-09-22 evening.
+
+## Vapi
+Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.

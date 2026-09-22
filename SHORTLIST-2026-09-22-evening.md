@@ -35,3 +35,23 @@ Packs + tailored PDFs built under `daily/2026-09-22-evening/<nn>-*/` (not commit
 | 16 Exadel | **BLOCKED** — Greenhouse listing closed (404 / board redirect). |
 
 Do not retry Ashby spam blockers. Prefer computerUse fill+Submit next.
+
+## Wave 3 — Lever/Ashby (Greenhouse 406 wall on box browser)
+
+| # | Company | Role | Portal | Soft gates | Apply |
+|---|---------|------|--------|------------|-------|
+| L1 | Kinter | Senior Applied AI Software Engineer | Lever | (check form) | https://jobs.lever.co/kinter/3cd34663-4a7e-4f75-b91a-f24fe9fd44d2 |
+| L2 | Provectus | Senior AI/ML Engineer (GenAI, AWS) | Lever | Remote-friendly | https://jobs.lever.co/provectus/76d97b29-ccb1-4417-aaf6-fbb05aa2bf86 |
+| L3 | Turgon | Senior AI Engineer | Lever | Delhi soft | https://jobs.lever.co/turgon-ai/3219f081-500a-4a63-b60a-db8c4f540c0b |
+| A1 | Niural | Software Engineer - Applied AI | Ashby | Nepal soft | https://jobs.ashbyhq.com/niural/4ca76614-7865-43b7-a9dc-8f5aa4c63771/application |
+| A2 | Cognition | Software Engineer | Ashby | soft | https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application |
+
+Skip: Level AI 404; BLEN US-citizen hard gate; Greenhouse embeds 406; Anrok spam.
+
+## Evening run results (2026-09-22 ~21:28 Asia/Karachi)
+
+**APPLIED (12 this run — minimum 10 met + 2 extras):** Niural, Cognition, Sierra (Agent), Ramp, Perplexity, OpenAI Codex Core Agents, Mintlify, Temporal, Browserbase, Replit, Vapi, Sierra (Agent Runtime).
+
+**BLOCKED:** Greenhouse job-boards/embed HTTP 406 from box browser (StackBlitz, Coinbase embed, and all Greenhouse shortlist #1–15/#18); Exadel closed; BLEN US-citizen hard gate; Kinter Lever hCaptcha (needs Muhammad); Cursor Agent Harness Ashby 404.
+
+**Notes:** Prefer Ashby after Greenhouse 406. Packs under `daily/2026-09-22-evening/` not committed.
