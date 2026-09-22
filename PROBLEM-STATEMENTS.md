@@ -841,3 +841,14 @@ Every few days: cluster themes → if ≥3 share the same thin-slice shape, cons
 **Arrangement:** On-site SF soft-gate  
 **Fit:** Applied AI product; minimal form.
 
+## Aaru — Software Engineer, Applied Ai (2026-09-22)
+
+**Company problem:** Simulate human behavior with populations of AI agents for consequential decisions (product, pricing, policy) before real-world commit.
+
+**Why me:** Careem MCP + Slack HITL tool loops; FinOps RAGAS evals; comfortable owning ambiguous applied-AI experiments end-to-end.
+
+## Dash0 — Senior Product Engineer (Darkplane, Agentic Platform) (2026-09-22)
+
+**Company problem:** Build agentic observability/platform (Darkplane) so teams can run and debug agents reliably in production.
+
+**Why me:** Careem MCP + Slack HITL tool loops; payments reliability under load; Dynatrace on-call; FinOps RAGAS evals.

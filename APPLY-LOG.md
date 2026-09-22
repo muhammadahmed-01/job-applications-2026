@@ -86,3 +86,19 @@
 | 2026-09-21 | Anrok | Software Engineer, Agentic AI Infrastructure | Phase C soft hybrid SF/NYC/SLC | Ashby | **BLOCKED** — Ashby spam flag on Submit (Grok Bot) · pack `daily/2026-09-21/01-anrok/` | — | retry later |
 | 2026-09-21 | Cartesia | Software Engineer, Agent Harness | Phase C soft onsite SF | Ashby | **BLOCKED** — Ashby spam flag on Submit (Grok Bot) · pack `daily/2026-09-21/03-cartesia/` | — | retry later |
 | 2026-09-21 | Abby Care | Senior Applied AI Engineer | Phase C soft hybrid SF | Ashby | **BLOCKED** — Ashby spam + resume upload error (Grok Bot) · pack `daily/2026-09-21/09-abby-care/` | — | retry later |
+| 2026-09-22 | Iambic Therapeutics | Software Engineer — Agentic data pipelines | Phase C soft remote US | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-22-iambic-agentic-data-pipelines.md` | — | CDP fill+Submit |
+| 2026-09-22 | Chariot | Software Engineer, Agentic Infrastructure | Phase C soft onsite NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-22-chariot-agentic-infrastructure.md` | — | CDP fill+Submit |
+| 2026-09-22 | Horizon3 | Senior Software Engineer, Agentic Systems | Phase C soft remote US | Ashby | **BLOCKED** — Ashby spam flag on Submit (Grok Bot) · pack `daily/2026-09-21/07-horizon3/` | — | retry later |
+| 2026-09-22 | Orpex | Applied AI Engineer | Phase C soft onsite SF | Ashby | **BLOCKED** — Ashby spam flag on Submit (Grok Bot) · pack `daily/2026-09-21/11-orpex/` | — | retry later |
+| 2026-09-22 | Netic | Software Engineer, Agent Platform | Phase C soft onsite NYC | Ashby | **BLOCKED** — Ashby spam flag on Submit (Grok Bot) · pack `daily/2026-09-21/12-netic/` | — | retry later |
+| 2026-09-22 | Aaru | Software Engineer, Applied Ai | Phase C soft onsite NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-22-aaru-software-engineer-applied-ai.md` | — | CDP 9228 fill+Submit |
+| 2026-09-22 | Dash0 | Senior Product Engineer (Darkplane, Agentic Platform) | Phase C soft remote EMEA | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-22-dash0-senior-product-engineer-darkplane.md` | — | CDP 9228 fill+Submit |
+| 2026-09-22 | Savvy Wealth | Senior Agent Harness Engineer | Phase C soft onsite NYC | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/08-savvy-wealth/` | — | retry later |
+| 2026-09-22 | OpenAI | Applied AI Engineer, Quants | Phase C soft hybrid London | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/09-openai/` | — | retry later |
+| 2026-09-22 | Sentry | Senior Software Engineer, Agent Tracing | Phase C soft hybrid Vienna | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/10-sentry/` | — | retry later |
+| 2026-09-22 | Airbyte | Senior Backend Engineer, Agent Infrastructure | Phase C soft hybrid SF | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/11-airbyte/` | — | retry later |
+| 2026-09-22 | ILLUIN Technology | Applied AI Engineer (F/H) | Phase C soft hybrid Paris | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/12-illuin-technology/` | — | retry later |
+| 2026-09-22 | CreatorIQ | Senior Fullstack Engineer, Agentic Experience | Phase C soft remote CA | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/13-creatoriq/` | — | retry later |
+| 2026-09-22 | bunch | Senior Applied AI Engineer, AI Platform | Phase C soft remote Spain | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/14-bunch/` | — | retry later |
+| 2026-09-22 | Sable | Applied AI Engineer, Evals | Phase C soft onsite SF | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/15-sable/` | — | retry later |
+| 2026-09-22 | DataSnipper | Senior Applied AI Engineer – Agent Runtime | Phase C soft hybrid NYC | Ashby | **BLOCKED** — Ashby spam (Grok Bot) · pack `daily/2026-09-22/16-datasnipper/` | — | retry later |
