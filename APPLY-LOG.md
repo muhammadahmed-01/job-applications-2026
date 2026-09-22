@@ -113,3 +113,4 @@
 | 2026-09-22 | Databricks | Sr Software Engineer, Agentic Applications | Phase C soft onsite MV | Greenhouse | **BLOCKED** — form unreachable/cookie wall (Grok Bot) · pack `daily/2026-09-22/18-databricks/` | — | retry later |
 | 2026-09-22 | Conviva | AI Engineer, Agent Analytics & Optimization (DPI) | Phase C soft hybrid Foster City | Greenhouse | **BLOCKED** — cookie/form unreachable (Grok Bot) · pack `daily/2026-09-22/19-conviva/` | — | retry later |
 | 2026-09-22 | Valtech | Lead Gemini Enterprise Agent Platform Engineer | Phase C soft hybrid Paris | Greenhouse | **BLOCKED** — privacy consent checkboxes (Grok Bot) · pack `daily/2026-09-22/27-valtech/` | — | retry later |
+| 2026-09-22 | Exadel | AI Software Engineer (Agentic Workflows, Production Systems) | Phase C soft remote flex | Greenhouse | **BLOCKED** — listing closed/redirect (job id 6129729004 not found) · pack `daily/2026-09-22-evening/16-exadel-agentic-workflows/` | — | do not retry |

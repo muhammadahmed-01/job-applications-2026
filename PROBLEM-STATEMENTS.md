@@ -888,3 +888,105 @@ Every few days: cluster themes → if ≥3 share the same thin-slice shape, cons
 **Company problem:** Agentic modeling & simulation for defense Lattice OS — autonomy/AI for military systems.
 
 **Why me:** Careem MCP + Slack HITL; clearance/export/auth answered No truthfully; sponsorship Yes.
+
+## Coinbase — Senior Software Engineer, Agent Verification (2026-09-22 evening)
+
+**Company problem:** Verify agent behavior/tool use so Coinbase can ship agentic systems safely (Agent Verification).
+
+**Why me:** Careem production MCP + Slack HITL tool loops; payments reliability; FinOps RAGAS evals (personal lab). Soft-gate Remote USA; auth No / sponsorship Yes.
+
+## GitLab — Backend Engineer (Ruby), AI Engineering: Agent Observability (2026-09-22 evening)
+
+**Company problem:** Observability for AI/agent systems inside GitLab DevSecOps platform.
+
+**Why me:** Careem MCP tool loops + Dynatrace on-call; stretch Ruby. Soft-gate Remote Canada.
+
+## GitLab — Senior Backend Engineer (Python), Agent Developer: Flow Components (2026-09-22 evening)
+
+**Company problem:** Agent flow components for GitLab AI engineering.
+
+**Why me:** Careem MCP + HITL agent loops; Python side depth via FinOps RAG lab. Soft-gate Remote Canada.
+
+## GitLab — Senior Backend Engineer, Trusted Agentic Development (2026-09-22 evening)
+
+**Company problem:** Trusted/guardrailed agentic development capabilities.
+
+**Why me:** Careem HITL before risky writes; soft-gate Remote Poland.
+
+## LaunchDarkly — Full Stack Engineer, AgentControl (2026-09-22 evening)
+
+**Company problem:** AgentControl product — feature flags / control plane for agents.
+
+**Why me:** Careem MCP gateway surfaces; soft-gate Remote US; sponsorship Yes.
+
+## StackBlitz — Senior Applied AI Engineer (2026-09-22 evening)
+
+**Company problem:** Applied AI on StackBlitz/WebContainers developer products.
+
+**Why me:** Careem MCP + FinOps RAGAS; soft-gate Remote; timezone overlap Yes if asked.
+
+## Cloudflare — Systems Engineer, MCP Portals (2026-09-22 evening)
+
+**Company problem:** MCP portals / tool gateway systems on Cloudflare edge.
+
+**Why me:** Production MCP Server at Careem; soft-gate Hybrid.
+
+## Cloudflare — Software Engineer, AI Agents (2026-09-22 evening)
+
+**Company problem:** AI Agents product engineering at Cloudflare.
+
+**Why me:** Careem MCP + Slack HITL agents; soft-gate in-office.
+
+## Elastic — Agentic AI Engineer (2026-09-22 evening)
+
+**Company problem:** Agentic AI for Elastic search/observability products.
+
+**Why me:** Careem MCP + on-call observability habits; soft-gate United States.
+
+## Brex — Software Engineer, Forward Deployed Agent Builder (2026-09-22 evening)
+
+**Company problem:** Forward-deployed agents for Brex finance customers.
+
+**Why me:** Careem MCP HITL + FinOps lab; soft-gate NYC.
+
+## Scale AI — Frontier Agents Engineer (Applied AI) (2026-09-22 evening)
+
+**Company problem:** Frontier agents / applied AI engineering at Scale.
+
+**Why me:** Careem production agents; soft-gate SF/NYC; sponsorship Yes.
+
+## Future — Applied AI Engineer (2026-09-22 evening)
+
+**Company problem:** Applied AI features for Future product.
+
+**Why me:** Careem MCP + FinOps RAGAS; soft-gate Remote US.
+
+## Samsara — AI Engineer, Customer Success (2026-09-22 evening)
+
+**Company problem:** AI for customer success workflows on Samsara platform.
+
+**Why me:** Careem MCP stakeholder Q&A speedup; soft-gate Remote US.
+
+## Re:Build Manufacturing — Senior AI Engineer (2026-09-22 evening)
+
+**Company problem:** AI for manufacturing operations (Re:Build).
+
+**Why me:** Careem agents + reliability; soft-gate remote-first US; stretch Senior.
+
+## Human Agency — Applied AI Engineer (2026-09-22 evening)
+
+**Company problem:** Applied AI engineering with Human Agency customers.
+
+**Why me:** Careem MCP + HITL; soft-gate Remote US/Canada.
+
+## BLEN — AI Engineer (2026-09-22 evening)
+
+**Company problem:** AI engineering for gov/enterprise digital transformation (BLENcorp).
+
+**Why me:** Careem MCP + HITL; soft-gate Remote US / clearance soft (answer truthfully).
+
+## Datadog — Staff Software Engineer - Security Agent (2026-09-22 evening)
+
+**Company problem:** Security Agent / agentic security systems at Datadog.
+
+**Why me:** Careem MCP + payments security mindset; soft-gate EU remote; stretch Staff.
