@@ -22,3 +22,24 @@
 | 16 | DataSnipper | Senior Applied AI Engineer – Agent Runtime | Ashby | Hybrid · New York, New York, United States | https://jobs.ashbyhq.com/datasnipper/7acd9995-ceee-4835-80aa-fea9d1ce69c7/application |
 
 Skip: Master-Works Phase B READY; spam Anrok/Cartesia/Abby/Sela/Rifa/Embedding; forever BLOCKED Gravie/RevenueCat/PermitFlow/Tabby Senior Backend. Dropped Agentio Research Scientist + Heidi Account Management.
+
+## Wave 2 — Greenhouse (Ashby spam wall; need 6 more to hit 10)
+
+| # | Company | Role | Portal | Soft gates | Apply |
+|---|---------|------|--------|------------|-------|
+| G1 | Datarails | Forward Deployed Financial Engineer - Applied AI  | Greenhouse | Remote Solely · United States | https://job-boards.greenhouse.io/datarails/jobs/4406662009 |
+| G2 | Accenture Federal Services | Generative AI Applications Engineer (Agents & RAG)  | Greenhouse | Remote OK · Washington, District of Columbia, United States | https://boards.greenhouse.io/accenturefederalservices/jobs/4669270006?gh_jid=4669270006 |
+| G3 | Databricks | Sr Software Engineer, Agentic Applications | Greenhouse | On-site · Mountain View, California, United States | https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002 |
+| G4 | Conviva | AI Engineer, Agent Analytics & Optimization (DPI) | Greenhouse | Hybrid · Foster City, California, United States | https://www.conviva.com/careers/job/7797049003?gh_jid=7797049003 |
+| G5 | Okta | Senior Forward Deployed Engineer - Okta for AI Agents | Greenhouse | Hybrid · Toronto, Ontario, Canada, San Francisco, California, United States, Chicago, Illinois, United States, Bellevue, Washington, United States | https://www.okta.com/company/careers/opportunity/7961356?gh_jid=7961356 |
+| G6 | Legion Intelligence | Agentic AI Engineer / Software Engineer - AI Applications (Remote US) | Greenhouse | Remote Solely · United States | https://job-boards.greenhouse.io/yurtsai/jobs/5243856007 |
+| G7 | Valtech | Lead Gemini Enterprise Agent Platform Engineer | Greenhouse | Hybrid · Paris, Ile-de-France, France | https://job-boards.eu.greenhouse.io/valtech/jobs/4877498101 |
+| G8 | Hark | Patent Agent, Software | Greenhouse | On-site · San Jose, California, United States | https://job-boards.greenhouse.io/hark/jobs/4412334009 |
+| G9 | Pallet | Software Engineer, Agent Delivery  | Greenhouse | On-site · San Francisco, California, United States | https://job-boards.greenhouse.io/pallet/jobs/5242991007 |
+| G10 | Anduril Industries | Software Engineer, Agentic Modeling & Simulation | Greenhouse | On-site · Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5112335007?gh_jid=5112335007 |
+| G11 | QuEra Computing, Inc. | Senior Applied AI Engineer | Greenhouse | On-site · Boston, Massachusetts, United States | https://job-boards.greenhouse.io/queracomputinginc/jobs/5429143008 |
+| G12 | Bot Auto | Senior Software Engineer, Applied AI | Greenhouse | On-site · San Francisco, California, United States, Houston, Texas, United States | https://job-boards.greenhouse.io/botauto/jobs/5428954008 |
+
+## Wave 2 results (2026-09-22)
+APPLIED: Pallet, Legion Intelligence, QuEra Computing, Bot Auto, Accenture Federal Services, Anduril Industries.
+BLOCKED: Datarails (email verify), Okta (email verify), Databricks/Conviva (form unreachable), Valtech (consent).

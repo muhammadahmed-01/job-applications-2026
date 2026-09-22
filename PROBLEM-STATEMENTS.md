@@ -852,3 +852,39 @@ Every few days: cluster themes → if ≥3 share the same thin-slice shape, cons
 **Company problem:** Build agentic observability/platform (Darkplane) so teams can run and debug agents reliably in production.
 
 **Why me:** Careem MCP + Slack HITL tool loops; payments reliability under load; Dynatrace on-call; FinOps RAGAS evals.
+
+## Pallet — Software Engineer, Agent Delivery (2026-09-22)
+
+**Company problem:** Automate supply-chain manual workflows with AI agents (CoPallet) that execute requests and integrate with customer systems.
+
+**Why me:** Careem MCP + Slack HITL tool loops; FinOps RAGAS evals; delivery of agents that wait for humans before risky writes.
+
+## Legion Intelligence — Agentic AI Engineer / AI Applications (2026-09-22)
+
+**Company problem:** Embed secure, reliable AI inside complex gov/enterprise systems — optimize workflows without replacing them.
+
+**Why me:** Careem MCP + Slack HITL; truthful No on US citizen/domicile hard gates.
+
+## QuEra Computing — Senior Applied AI Engineer (2026-09-22)
+
+**Company problem:** Stand up AI Engineering so every QuEra group can put AI to work — deployable LLM/agent tools from machine build to everyday engineering.
+
+**Why me:** Careem MCP + Slack HITL; FinOps RAGAS lab; stretch senior/onsite.
+
+## Bot Auto — Senior Software Engineer, Applied AI (2026-09-22)
+
+**Company problem:** Architect, build, ship, and operate production AI/agentic systems across Bot Auto’s autonomous trucking stack.
+
+**Why me:** Careem production agent loops + payments reliability; sponsorship Yes / no Houston relocate.
+
+## Accenture Federal Services — Generative AI Applications Engineer (Agents & RAG) (2026-09-22)
+
+**Company problem:** Build generative AI applications (agents & RAG) for US federal clients on AFS platforms.
+
+**Why me:** Careem MCP + Slack HITL; FinOps RAG lab; soft-gate geo/visa truthful (Not in the U.S.).
+
+## Anduril Industries — Software Engineer, Agentic Modeling & Simulation (2026-09-22)
+
+**Company problem:** Agentic modeling & simulation for defense Lattice OS — autonomy/AI for military systems.
+
+**Why me:** Careem MCP + Slack HITL; clearance/export/auth answered No truthfully; sponsorship Yes.
