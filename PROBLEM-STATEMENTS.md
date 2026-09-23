@@ -1023,3 +1023,76 @@ Phase C soft London. Software Engineer, Codex Core Agents (distinct from Quants 
 
 ## Vapi
 Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
+
+## Harvey
+
+**What they do (1 line):** Legal workflow AI — agents for knowledge work
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Deepgram
+
+**What they do (1 line):** Speech recognition + voice AI platform
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Bland
+
+**What they do (1 line):** AI phone/voice agents
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Composio
+
+**What they do (1 line):** Tool-calling / integrations for AI agents (MCP-adjacent)
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Reflection AI
+
+**What they do (1 line):** LLM post-training / frontier models
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Anyscale
+
+**What they do (1 line):** Ray / distributed compute; LLM inference
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Fireworks
+
+**What they do (1 line):** LLM inference infrastructure
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Provectus
+
+**What they do (1 line):** AI/ML consultancy — GenAI on AWS
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
+## Turgon
+
+**What they do (1 line):** AI engineering / agent platform
+
+**Why relevant:** Phase C agents/applied AI IC track.
+
+**Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
+
