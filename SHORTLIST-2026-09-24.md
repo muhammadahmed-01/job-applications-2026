@@ -54,3 +54,12 @@ Packs+PDFs ready under `daily/2026-09-24/` (gitignored).
 | 20 | `20-elevenlabs-fde-singapore` | `Muhammad_Ahmed_ElevenLabs_Forward_Deployed_Engineer_SE_Singapore.pdf` | PENDING — needs computerUse |
 
 _Updated 2026-09-24 20:16 Asia/Karachi. Executor has no Task/computerUse; parent must fill+Submit._
+
+## Run results (2026-09-24 ~21:00 Asia/Karachi)
+
+**APPLIED (16 this run — minimum 10 met + 6 extras):** Render Agent Auth; OpenAI Codex Paris; OpenAI Codex Munich; Bubble Senior Applied AI; ClickUp Voice Platform; ClickUp AI Platform; LangChain Enablement; Merge Agent Handler; n8n Sr AI Engineer; Steel MTS Agents; Baseten AI Engineer; Cerebras Full Stack LLM; Fieldguide Senior AI Quality; Reflection AI FDE; ElevenLabs FDE Singapore; Snowflake FDE Applied AI.
+
+**BLOCKED:** Sierra Healthcare + Financial (multi-apply gate); Rifa skipped (prior spam); Deepgram FDE Strategic (already received + spam flag).
+
+**Notes:** Prefer Ashby. Packs under `daily/2026-09-24/` not committed. Provectus/Turgon Lever hCaptcha still pending from Sep 23.
+
