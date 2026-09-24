@@ -1096,3 +1096,262 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 
 **Problem angle:** Ship production tool-calling agents with evals + HITL (Careem MCP/Slack).
 
+---
+
+## Company problems → role map (2026-09-24 Phase C batch)
+
+### 6. Render
+
+**Company problem (MEASURED):** At Render, we’re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms—so teams can ship fast, scale reliably, and focus on their product, not infrastructure. Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experienc…
+
+**Role applied (pack ready 2026-09-24):** Software Engineer, Agent Auth Experience  
+**Apply:** https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Remote: United States · Remote · sponsorship Yes · `build_candidate: undecided` · pack `01-render-agent-auth`
+
+
+### 7. OpenAI
+
+**Company problem (MEASURED):** About the team The Applied AI Engineering team works closely with frontier startups. We are trusted advisors to, and thought partners with, startups to ensure that OpenAI’s technology is deployed safely and effectively, whilst also partnering with engineering, research, and product to turn those insights into evaluation systems, product improvements, and better model behavior. This team sits at the intersection of customer reality and model quali…
+
+**Role applied (pack ready 2026-09-24):** Applied AI Engineer, Startups (Codex)  
+**Apply:** https://jobs.ashbyhq.com/openai/d801f26e-951e-452c-9924-9449b55edc5a/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Paris, France · Hybrid · sponsorship Yes · `build_candidate: undecided` · pack `02-openai-applied-ai-codex-paris`
+
+
+### 8. Bubble
+
+**Company problem (MEASURED):** We built Bubble with a clear mission: to empower everyone to create software. Our AI visual development platform lets anyone, from first-time entrepreneurs to enterprise teams, take an idea from prompt to fully-functional, scalable app across web, iOS, and Android. With over 6 million users in more than 100 countries, Bubble is breaking down the barriers to entrepreneurship and innovation worldwide. Our Product Bubble is the only fully visual AI …
+
+**Role applied (pack ready 2026-09-24):** Senior Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/bubble/32a3ade2-1e62-4ad9-9ab8-32036d6f7b6b/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** NYC, New York · None · sponsorship Yes · `build_candidate: undecided` · pack `04-bubble-senior-applied-ai`
+
+
+### 9. ClickUp
+
+**Company problem (MEASURED):** At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. 🚀 ROLE OVERVIEW You'll own and evolve the AI systems behind ClickUp's voice platfo…
+
+**Role applied (pack ready 2026-09-24):** Senior AI Engineer, Voice Platform  
+**Apply:** https://jobs.ashbyhq.com/clickup/ab3a5c0c-7f86-47e7-9001-055598908b6a/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** United States · Remote · sponsorship Yes · `build_candidate: undecided` · pack `05-clickup-voice-platform`
+
+
+### 10. Sierra
+
+**Company problem (MEASURED):** ABOUT US Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia. We are guided by a set of values that are at the core of our actions …
+
+**Role applied (pack ready 2026-09-24):** Software Engineer, Agent - Healthcare  
+**Apply:** https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** New York, NY · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `07-sierra-agent-healthcare`
+
+
+### 11. Merge
+
+**Company problem (MEASURED):** Merge is the leading provider of agentic tools and customer-facing integrations for frontier LLMs, Fortune 500 organizations, and B2B SaaS companies. Our platform offers three core products: Merge Unified, which enables businesses to add hundreds of integrations to their products with a single API, Merge Agent Handler, which empowers AI agents with secure access to thousands of third-party tools, and Merge Gateway, the control plane for running A…
+
+**Role applied (pack ready 2026-09-24):** Sr./Staff Engineer, Agent Handler  
+**Apply:** https://jobs.ashbyhq.com/merge/eb29e8b3-5e00-4b00-affc-0823044665f1/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco, CA · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `10-merge-agent-handler`
+
+
+### 12. n8n
+
+**Company problem (MEASURED):** The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’v…
+
+**Role applied (pack ready 2026-09-24):** Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS  
+**Apply:** https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Berlin Office · Remote · sponsorship Yes · `build_candidate: undecided` · pack `11-n8n-sr-ai-engineer`
+
+
+### 13. Steel
+
+**Company problem (MEASURED):** ABOUT STEEL Steel is building open-source browser infrastructure for AI agents and apps. We make it easy for developers to ship AI products that interact with the web using our Sessions API https://docs.steel.dev/overview/sessions-api/overview. With over 7,000 GitHub stars, dozens of paying customers, and millions of sessions served monthly, we grew our platform 50x in 2025 purely through word-of-mouth and our open-source community. Backed by wor…
+
+**Role applied (pack ready 2026-09-24):** Member of Technical Staff - Agents  
+**Apply:** https://jobs.ashbyhq.com/steel/c5a1ec46-5507-4c5b-9fed-f15ce25fd7be/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Toronto · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `12-steel-mts-agents`
+
+
+### 14. Baseten
+
+**Company problem (MEASURED):** ABOUT BASETEN Baseten powers mission-critical inference for the world's most dynamic AI companies, like Cursor, Notion, OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting applied AI research, flexible infrastructure, and seamless developer tooling, we enable companies operating at the frontier of AI to bring cutting-edge models into production. We're growing quickly and recently raised our $1.5B Series F https://www.baseten.co/blog/announ…
+
+**Role applied (pack ready 2026-09-24):** AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco · Hybrid · sponsorship Yes · `build_candidate: undecided` · pack `13-baseten-ai-engineer`
+
+
+### 15. Cerebras
+
+**Company problem (MEASURED):** Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. This order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation. Cerebras wor…
+
+**Role applied (pack ready 2026-09-24):** Full Stack LLM Engineer  
+**Apply:** https://jobs.ashbyhq.com/cerebras/c3890fd4-99de-4a22-b442-b6a77a717dfb/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Toronto, CAN · Hybrid · sponsorship Yes · `build_candidate: undecided` · pack `14-cerebras-full-stack-llm`
+
+
+### 16. Fieldguide
+
+**Company problem (MEASURED):** ABOUT US Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and financial audit. Put simply, we build software for the people who enable trust between businesses. We’re based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. W…
+
+**Role applied (pack ready 2026-09-24):** Senior AI Engineer, Quality  
+**Apply:** https://jobs.ashbyhq.com/fieldguide/f4f0aea0-826d-451f-bd17-b04772e221cc/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco, CA or Remote (USA) · Hybrid · sponsorship Yes · `build_candidate: undecided` · pack `15-fieldguide-senior-ai-quality`
+
+
+### 17. Reflection AI
+
+**Company problem (MEASURED):** OUR MISSION Reflection is a research lab making intelligence open and accessible for everyone to use, customize, and build on. We build open models that let anyone control their intelligence and help shape the future of AI. Our mission: make intelligence open and accessible to all. ROLE OVERVIEW We’re looking for a core member of Reflection’s Applied AI team to drive our Forward Deployed Engineering efforts with enterprise customers. This team wo…
+
+**Role applied (pack ready 2026-09-24):** Forward Deployed Engineer - AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** New York, NY · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `16-reflectionai-fde-ai-engineer`
+
+
+### 18. Rifa
+
+**Company problem (MEASURED):** ABOUT US Rifa AI https://rifa.ai is building the AI agents platform for contact centers in regulated industries. Enterprises in these industries want AI agents handling their customer operations and mostly can't deploy them. It's not a model problem. Horizontal platforms lack governance, release processes, and change management, and in a domain where every call can be reviewed by a regulator, that's disqualifying. Building an AI agent has never b…
+
+**Role applied (pack ready 2026-09-24):** Agent Engineer  
+**Apply:** https://jobs.ashbyhq.com/rifa/bd6366c8-893a-49fd-9b9a-31cb75a397d0/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Remote, India · Remote · sponsorship Yes · `build_candidate: undecided` · pack `17-rifa-agent-engineer`
+
+
+### 19. Deepgram
+
+**Company problem (MEASURED):** COMPANY OVERVIEW Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack in the Box. Deepgram…
+
+**Role applied (pack ready 2026-09-24):** Senior Forward Deployed Engineer (FDE), Strategic Accounts  
+**Apply:** https://jobs.ashbyhq.com/deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** New York City, NY · Remote · sponsorship Yes · `build_candidate: undecided` · pack `18-deepgram-fde-strategic`
+
+
+### 20. Snowflake
+
+**Company problem (MEASURED):** At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environme…
+
+**Role applied (pack ready 2026-09-24):** Senior/Staff   Forward Deployed Engineer, Applied AI  
+**Apply:** https://jobs.ashbyhq.com/snowflake/12455179-f3ff-4739-b8c0-c21f3c116b87/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** US-CA-Menlo Park · Hybrid · sponsorship Yes · `build_candidate: undecided` · pack `19-snowflake-fde-applied-ai`
+
+
+### 21. ElevenLabs
+
+**Company problem (MEASURED):** ABOUT ELEVENLABS ElevenLabs is a research and product company defining the frontier of Audio AI. Millions of individuals use ElevenLabs to read articles, voice over their videos, and reclaim voices lost from disability. And the leading developers and enterprises use ElevenLabs to create AI agents for support, sales, and education. ElevenLabs launched in January 2023 with the first AI model to cross the threshold of human-like speech. In January 2…
+
+**Role applied (pack ready 2026-09-24):** Forward Deployed Engineer - Software Engineer - Singapore  
+**Apply:** https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Singapore · Remote · sponsorship Yes · `build_candidate: undecided` · pack `20-elevenlabs-fde-singapore`
+
