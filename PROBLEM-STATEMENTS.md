@@ -1355,3 +1355,141 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 
 **Soft gates:** Singapore · Remote · sponsorship Yes · `build_candidate: undecided` · pack `20-elevenlabs-fde-singapore`
 
+
+
+### 22. Perplexity
+
+**Company problem (MEASURED):** Perplexity Computer is one of the defining products of the new era of agentic AI. Millions of people use Perplexity to transform knowledge into action, and the Agent Capabilities team sits at the intersection of frontier AI research and product innovation, building the foundations that shape how users and agents solve increasingly complex tasks. As every major breakthrough in AI models creates new possibilities, the Agent Capabilities team is responsible for turning frontier AI breakthroughs into reusable product capabilities. We are often the first to evaluate emerging model capabilities, determine where they create real user value, and transform them into reliable, scalable, high quality experiences for both users and agents. This is a highly leveraged role with broad ownership at the intersection of frontier AI research, agent systems, platform engineering, and product innovation.
+
+**Role applied (pack ready 2026-09-25):** Member of Technical Staff (Applied AI Engineer, Agent Capabilities)  
+**Apply:** https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco · sponsorship Yes · `build_candidate: undecided` · pack `06-perplexity-mts-applied-ai-agent-capabilities`
+
+
+
+### 23. Vapi
+
+**Company problem (MEASURED):** Vapi (/ˈVɑːpi/): - Voice AI that resolves, not transfers - Powering 1 billion calls for companies like Amazon Ring, Intuit, ServiceTitan, and New York Life - Trusted by 1 million developers building the future of voice agents - Backed by Peak XV, Bessemer, Kleiner Perkins, M12, Y Combinator, and more with $72M raised - Try talking to Vapi now! Why We’re Hiring This Role: - Vapi ships hundreds of pull requests a day while serving some of the world’s largest enterprises. Every release must stay fast, safe, observable, and predictable at scale. - Our CI and deployment systems are critical product infrastructure. We need a senior/staff engineer to remove bottlenecks, repair fragile deploy paths, and increase confidence without slowing product teams. - You’ll own the systems behind safe releases, including Argo CD, Terraform, and Atlantis—and automate the reliable path.
+
+**Role applied (pack ready 2026-09-25):** Member of Technical Staff, Agentic Release Engineer  
+**Apply:** https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco · Hybrid · Remote · sponsorship Yes · `build_candidate: undecided` · pack `07-vapi-mts-agentic-release-engineer`
+
+
+
+### 24. Hostinger
+
+**Company problem (MEASURED):** ## Join the team building an AI-first company 🚀 Hostinger serves more than 5.5 million clients across 150 countries, but we're still excited about what we're creating next. AI is changing how we build products, support customers, work together, and solve problems. It helps us move faster, spend less time on repetitive work, and focus on bigger ideas. If you want your work to influence both what we build and how we build it, we'd like to meet you. Our culture: Guided by 10 company principles. ## Your role at Hostinger You'll join the team that is building an AI-powered platforms that helps anyone turn an idea into a website, online store, or web app. This isn't a "ticket-to-deploy" role. You'll own problems end-to-end: from identifying customer needs to shipping solutions and measuring their impact.
+
+**Role applied (pack ready 2026-09-25):** Agentic Product Engineer | AI Builder | Remote  
+**Apply:** https://jobs.ashbyhq.com/hostinger/1125bcbb-decb-4139-94c0-2d340c74f301/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Poland · Remote · sponsorship Yes · `build_candidate: undecided` · pack `08-hostinger-agentic-product-engineer`
+
+
+
+### 25. Replit
+
+**Company problem (MEASURED):** Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation. Make Replit the single place where businesses can buy everything they need through their agents. As a Staff Software Engineer on Replit’s Money team, you’ll set technical direction and build the commerce platform that lets users discover, evaluate, purchase, and manage the products and services they need to build and run their businesses—without leaving Replit. Replit already enables businesses to accept payments through integrations such as Stripe. This role builds on that foundation to expand what businesses can buy and accomplish through Replit Agent.
+
+**Role applied (pack ready 2026-09-25):** Staff Software Engineer, Agentic Commerce & Payments   
+**Apply:** https://jobs.ashbyhq.com/replit/22e99380-e48c-4bc3-a870-721411b22957/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Foster City, CA · Hybrid · Remote · sponsorship Yes · `build_candidate: undecided` · pack `10-replit-staff-swe-agentic-commerce-payments`
+
+## Company problems → role map (2026-09-25 Phase C wave-2)
+
+
+### 26. Anrok
+
+**Company problem (MEASURED):** Anrok is the leading tax automation platform enabling businesses to expand globally without compliance complexity. As the digital economy has grown 6x over the last decade, software businesses have gone from not worrying about sales tax to needing to monitor exposure, calculate rates, and file returns across 50 US jurisdictions and 100+ countries. This creates a critical bottleneck for companies that should be able to transact with customers everywhere. Anrok eliminates this complexity by connecting with billing and payment systems to automate tax monitoring, calculations, and filing end-to-end. Our unified platform handles the ever-changing maze of tax laws at municipal, state, and federal levels—so companies can focus on growth, not compliance.
+
+**Role applied (pack ready 2026-09-25):** Software Engineer, Agentic AI Infrastructure  
+**Apply:** https://jobs.ashbyhq.com/anrok/a11b3600-9820-44af-ac8e-bdafe037f504/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** San Francisco · Hybrid · Remote · sponsorship Yes · `build_candidate: undecided` · pack `16-anrok-se-agentic-ai-infrastructure`
+
+
+
+### 27. Displai
+
+**Company problem (MEASURED):** ABOUT DISPLAI We support businesses and organizations with seamless digital experiences that create connection in the public square. Using a first-of-its-kind technology, Displai reimagines and transforms customer experiences through dynamic and interactive digital signage. Built with both people and businesses in mind, Displai focuses on the experience, allowing companies to concentrate on their products. Franchise managers, IT executives, marketing executives, and communications executives can effectively scale their brick-and-mortar operations while eliminating outdated technology. Our superior product, service, and integrations seamlessly create more engaging and personalized in-store experiences that keep customers coming back and buying more. Displai is headquartered in the San Francisco Bay Area, California, and currently works with 2,500+ brands.
+
+**Role applied (pack ready 2026-09-25):** Software Engineer, Agentic AI  
+**Apply:** https://jobs.ashbyhq.com/displai/14171ec3-2ba9-4e54-9a06-80b63855d4be/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** United States · Hybrid · Remote · sponsorship Yes · `build_candidate: undecided` · pack `17-displai-se-agentic-ai`
+
+
+
+### 28. Chariot
+
+**Company problem (MEASURED):** JOB DESCRIPTION Over the past 2 years, Chariot has grown 1300% YoY. As we continue to scale from tens of thousand of nonprofits to hundreds of thousands, our systems, particularly those used by our GTM, Ops, and Compliance teams, needs to evolve from manual or semi-automated to fully automated, well-architected and engineered. That's where this role comes in: Chariot Labs is our internal brain helping our full company adopt cutting edge software and tools (think Agent based workflows) that will power our next phase of growth. You will write code, build AI agents, and put together internal systems either from v1 to v100 or fully from scratch. You'll work directly with senior leadership and cross functional teams to translate strategy into automated workflows, programmatic outbound, and custom internal tools. If you want to configure simple CRM layouts all day, this is not for you.
+
+**Role applied (pack ready 2026-09-25):** Software Engineer, Agentic Infrastructure  
+**Apply:** https://jobs.ashbyhq.com/chariot/245b08e2-c687-419c-aa7f-b939840b7967/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** Chariot HQ · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `18-chariot-se-agentic-infrastructure`
+
+
+
+### 29. Cartesia
+
+**Company problem (MEASURED):** ABOUT CARTESIA Our mission is to architect AI that learns from and interacts with the world like humans do. We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficient, large-scale foundation models. Our team combines deep expertise in model innovation and systems engineering paired with a design-minded product engineering team to build and ship cutting edge models and experiences. We're funded by leading investors at Index Ventures and Lightspeed Venture Partners, along with Factory, Conviction, A Star, General Catalyst, SV Angel, Databricks and others. We're fortunate to have the support of many amazing advisors, and 90+ angels across many industries, including the world's foremost experts in AI.
+
+**Role applied (pack ready 2026-09-25):** Software Engineer, Agent Harness  
+**Apply:** https://jobs.ashbyhq.com/cartesia/16cd6cd7-454b-4e44-9a04-6a4677a3e920/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Production agents / tool-calling | Careem MCP + Slack HITL |
+| Reliability / evals | On-call Dynatrace; FinOps RAGAS lab (personal) |
+| Backend systems | Go/Java, Kafka, Redis, Postgres |
+
+**Soft gates:** *HQ - San Francisco, CA · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `20-cartesia-se-agent-harness`
+
+
