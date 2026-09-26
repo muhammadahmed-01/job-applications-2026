@@ -229,3 +229,4 @@
 | 2026-09-27 | Perplexity | Applied AI Architect, Perplexity Computer | Phase C soft SF | Ashby | **BLOCKED** — missing Exercise Submission Shared URL (Grok Bot) · `submit-logs/2026-09-27-perplexity-applied-ai-architect-blocked.md` | — | need real exercise link |
 | 2026-09-27 | Maybern | Principal Forward Deployed Engineer | Phase C soft hybrid NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-maybern-principal-fde.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Legora | Legal Engineer - Applied AI Knowledge | Phase C soft onsite London | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-legora-legal-engineer-applied-ai.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Gumloop | Forward Deployed Agentic Engineer | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-gumloop-fde-agentic.md` | — | computerUse fill+Submit |
