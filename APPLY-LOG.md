@@ -226,3 +226,4 @@
 | 2026-09-27 | Notion | Forward Deployed Architect - NYC | Phase C soft hybrid NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-notion-fda-nyc.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Notion | Forward Deployed Architect - Dublin | Phase C soft Dublin | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-notion-fda-dublin.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Composio | Forward Deployed Research Engineer | Phase C soft onsite SF | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-composio-fde-research.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Perplexity | Applied AI Architect, Perplexity Computer | Phase C soft SF | Ashby | **BLOCKED** — missing Exercise Submission Shared URL (Grok Bot) · `submit-logs/2026-09-27-perplexity-applied-ai-architect-blocked.md` | — | need real exercise link |
