@@ -1501,3 +1501,20 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 **Why Muhammad:** Production MCP + Slack→GitHub change agent with HITL at Careem; eval habits (RAGAS/LangSmith) on FinOps AI Gateway side project. Fit for Agent Evaluation and Quality roles measuring real engineering-org reliability.
 
 **Soft gate:** SF onsite/hybrid common — soft-gate only.
+
+## OpenArt
+
+**Role:** Senior/Staff Software Engineer, Agent (Ashby `b5e04802-…`)
+**Problem:** Agent product quality / generation workflows for creators.
+**Angle:** Careem MCP + Slack HITL agent loops; soft-gate SF hybrid from Lahore.
+
+## Notion
+
+**Roles:** FDE India (`79c18580-…`); FDE GTM AMER (`10437426-…`)
+**Problem:** Forward-deployed Notion AI/agent rollouts for customers.
+**Angle:** Careem production MCP + payments reliability; India FDE soft-gate from Lahore.
+
+## Runlayer — FDE
+
+**Role:** Forward Deployed Engineer (Ashby `17c5964a-…`) ≠ Integrations Engineer already APPLIED.
+**Angle:** Same MCP/HITL proof; customer-facing deploy soft-gate NYC hybrid.
