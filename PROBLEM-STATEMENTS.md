@@ -1493,3 +1493,11 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 **Soft gates:** *HQ - San Francisco, CA · OnSite · sponsorship Yes · `build_candidate: undecided` · pack `20-cartesia-se-agent-harness`
 
 
+
+## Cursor (Anysphere)
+
+**What they do:** AI coding IDE / agent product (Cursor) focused on developer productivity with agentic coding workflows.
+
+**Why Muhammad:** Production MCP + Slack→GitHub change agent with HITL at Careem; eval habits (RAGAS/LangSmith) on FinOps AI Gateway side project. Fit for Agent Evaluation and Quality roles measuring real engineering-org reliability.
+
+**Soft gate:** SF onsite/hybrid common — soft-gate only.
