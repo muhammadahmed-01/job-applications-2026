@@ -224,3 +224,4 @@
 | 2026-09-27 | Snowflake | Principal Software Engineer - Agentic Pipelines | Phase C soft onsite Bellevue | Ashby | **BLOCKED** — skipped (Snowflake spam after LLM Inference) · pack `daily/2026-09-27-wave2/05-*/` · `submit-logs/2026-09-27-snowflake-principal-agentic-pipelines-skipped.md` | — | retry later |
 | 2026-09-27 | Notion | Forward Deployed Engineer - Tokyo | Phase C soft Tokyo | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-notion-fde-tokyo.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Notion | Forward Deployed Architect - NYC | Phase C soft hybrid NYC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-notion-fda-nyc.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Notion | Forward Deployed Architect - Dublin | Phase C soft Dublin | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-notion-fda-dublin.md` | — | computerUse fill+Submit |
