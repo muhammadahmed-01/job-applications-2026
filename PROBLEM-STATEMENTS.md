@@ -1518,3 +1518,63 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 
 **Role:** Forward Deployed Engineer (Ashby `17c5964a-…`) ≠ Integrations Engineer already APPLIED.
 **Angle:** Same MCP/HITL proof; customer-facing deploy soft-gate NYC hybrid.
+
+
+## 2026-09-27-wave2 Phase C Ashby remaining
+
+### Demandbase — Applied AI Scientist
+**Problem:** ABM/GTM applied AI — production LLM/retrieval for buyer context.
+**Angle:** Careem MCP + scoped tools; FinOps RAGAS lab only. Soft-gate SF hybrid. Auth No / sponsorship No / status Other.
+**Pack:** `daily/2026-09-27-wave2/01-demandbase-applied-ai-scientist/` · Ashby `7dbe602e-…`
+
+### Cerebras — Applied AI/ML Scientist (UAE)
+**Problem:** Wafer-scale LLM inference / applied ML.
+**Angle:** Backend + agent tooling; UAE soft-gate. ≠ Full Stack LLM Engineer already APPLIED.
+**Pack:** `02-cerebras-applied-ai-ml-scientist/` · `594d7525-…`
+
+### Snowflake (wave2 roles)
+- Lead FDE Migration `9f769838-…` — customer migration FDE (Lead stretch)
+- Senior/Staff System Research Engineer – LLM Inference Optimization `9e0ae021-…`
+- Principal SWE Agentic Pipelines `dd0b29a3-…`
+≠ Cortex LLM Training / FDE Applied AI already APPLIED.
+
+### Notion (wave2)
+- FDE Tokyo `4bc0802c-…`
+- Forward Deployed Architect NYC `3e988191-…` + Dublin `77861b77-…`
+≠ FDE India / FDE AMER already APPLIED 2026-09-27.
+
+### Composio — Forward Deployed Research Engineer
+**Ashby** `018e087b-…` · MCP/tool-calling research FDE. Skip New Grad/Intern. ≠ MTS Applied AI already APPLIED.
+
+### Perplexity — Applied AI Architect, Perplexity Computer
+**Ashby** `4fba58de-…` · **Risk:** required Exercise Submission URL (prior MTS Agent Capabilities BLOCKED).
+
+### Maybern — Principal Forward Deployed Engineer
+**Ashby** `8918ec51-…` · Fund-ops agentic OS FDE. ≠ Senior SWE AI already APPLIED.
+
+### Legora — Legal Engineer Applied AI Knowledge
+**Ashby** `e97abb73-…` · Legal AI knowledge London; JD prefers qualified lawyer — stretch IC applied-AI only.
+
+### Gumloop — Forward Deployed Agentic Engineer
+**Ashby** `f5b326dc-…` · Agentic workflow FDE; MCP in skills list.
+
+### Warp — Applied AI Engineer
+**Ashby** `718d38f5-…` · Terminal AI / tool-calling; NYC onsite soft-gate.
+
+### AKASA — Software Engineer, Applied AI
+**Ashby** `73310b0b-…` · Healthcare applied AI SWE.
+
+### ReadMe — Forward Deployed Engineer
+**Ashby** `22b61ced-…` · Docs/API platform FDE; US hybrid soft-gate.
+
+### Runpod — Forward Deployed Engineer APAC
+**Ashby** `25e7d414-…` · GPU cloud FDE; remote APAC soft-gate.
+
+### Outsmart — Staff Applied AI Engineer
+**Ashby** `1afb8b19-…` · Staff/10+ YOE stretch; remote.
+
+### Heidi — Forward Deployed Engineer - UK
+**Ashby** `02ad14b7-…` · Clinical AI FDE; London soft-gate.
+
+### Docker — Principal Forward Deployed Engineer
+**Ashby** `f50260bc-…` · Containers + AI agents/MCP FDE; Principal stretch; remote OK.
