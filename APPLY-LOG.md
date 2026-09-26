@@ -234,3 +234,4 @@
 | 2026-09-27 | AKASA | Software Engineer, Applied AI | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-akasa-swe-applied-ai.md` | — | computerUse fill+Submit |
 | 2026-09-27 | ReadMe | Forward Deployed Engineer | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-readme-fde.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Runpod | Forward Deployed Engineer APAC | Phase C soft APAC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-runpod-fde-apac.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Outsmart | Staff Applied AI Engineer | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-outsmart-staff-applied-ai.md` | — | computerUse fill+Submit |
