@@ -236,3 +236,4 @@
 | 2026-09-27 | Runpod | Forward Deployed Engineer APAC | Phase C soft APAC | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-runpod-fde-apac.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Outsmart | Staff Applied AI Engineer | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-outsmart-staff-applied-ai.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Heidi | Forward Deployed Engineer - UK | Phase C soft UK | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-heidi-fde-uk.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Docker | Principal Forward Deployed Engineer | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-docker-principal-fde.md` | — | computerUse fill+Submit |
