@@ -218,3 +218,4 @@
 | 2026-09-27 | OpenAI | Forward Deployed Engineer (FDE), Healthcare - NYC | Phase C soft | Ashby | **BLOCKED** — skipped (OpenAI 5/180d limit after Product Engineer Agents) · pack `daily/2026-09-27/14-*/` | — | computerUse fill+Submit |
 | 2026-09-27 | Reducto | Forward Deployed Engineer, Infrastructure Specialist | Phase C soft | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-reducto-fde-infra.md` | — | computerUse fill+Submit |
 | 2026-09-27 | Demandbase | Applied AI Scientist | Phase C soft hybrid SF | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-demandbase-applied-ai-scientist.md` | — | computerUse fill+Submit |
+| 2026-09-27 | Cerebras | Applied AI/ML Scientist | Phase C soft UAE | Ashby | **APPLIED** — Submitted (Grok Bot) · `submit-logs/2026-09-27-cerebras-applied-ai-ml-scientist.md` | — | computerUse fill+Submit |
