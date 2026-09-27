@@ -1618,3 +1618,55 @@ SWE AI fintech/accounting; San Jose 3-day commute answered No (Lahore). Pack `11
 
 ### Brevo — Senior AI Software Engineer
 Senior AI SWE / marketing AI. Pack `12-brevo-senior-ai-software-engineer/`.
+
+## 2026-09-27-ashby-ic Phase C Ashby IC FORM FILLED wave
+
+Soft-gate geo. Sponsorship **No**. US auth **No**. Hear-about LinkedIn. EEO Asian (South Asian/Pakistani) / Male / Hispanic No / Veteran No. Start 2026-10-26.
+
+### Replit — AI Agent Security Architect
+**Ashby** `df7b6d30-…` · AI agent security architect; Foster City hybrid soft-gate; ≠ Agentic Ads/FDE already tonight
+Pack `daily/2026-09-27-ashby-ic/01-replit-ai-agent-security-architect/`.
+
+### Harvey — Staff Software Engineer, Agents
+**Ashby** `fc038666-…` · Staff Agents SF new UUID; Senior Agents SF/NY already known — one location only
+Pack `daily/2026-09-27-ashby-ic/02-harvey-staff-software-engineer-agents/`.
+
+### Luminary — Applied AI Lead
+**Ashby** `cf417270-…` · Applied AI Lead new UUID; ≠ SWE Applied AI already APPLIED
+Pack `daily/2026-09-27-ashby-ic/03-luminary-applied-ai-lead/`.
+
+### Decagon — Agent Data Scientist
+**Ashby** `5433ff3a-…` · Agent Data Scientist; DS stretch vs SWE — pack as IC applied-agent evals; Decagon Voice Agent previously limit-blocked — watch
+Pack `daily/2026-09-27-ashby-ic/04-decagon-agent-data-scientist/`.
+
+### Decagon — Senior Software Engineer, Agent Product
+**Ashby** `90c40e13-…` · Senior SWE Agent Product SF; ≠ Agents London / Staff Platform known
+Pack `daily/2026-09-27-ashby-ic/05-decagon-senior-software-engineer-agent-product/`.
+
+### Blooming Health — Senior AI Engineer, Conversational AI & Agentic Systems - Voice Required
+**Ashby** `a6d265bd-…` · Remote US conversational/agentic voice AI
+Pack `daily/2026-09-27-ashby-ic/06-blooming-health-senior-ai-engineer-agentic-voice/`.
+
+### Airwallex — Senior Backend Engineer, Agentic AI 
+**Ashby** `9dee394c-…` · Senior Backend Agentic AI SF hybrid; prefer Senior over Staff stretch
+Pack `daily/2026-09-27-ashby-ic/07-airwallex-senior-backend-engineer-agentic-ai/`.
+
+### Cube — Senior Agentic AI Engineer
+**Ashby** `ee6f78e2-…` · Senior Agentic AI Engineer Berlin hybrid soft-gate
+Pack `daily/2026-09-27-ashby-ic/08-cube-senior-agentic-ai-engineer/`.
+
+### Cogent Security — Forward Deployed Agent Engineer
+**Ashby** `e038692d-…` · FDE Agent Engineer SF hybrid
+Pack `daily/2026-09-27-ashby-ic/09-cogent-security-forward-deployed-agent-engineer/`.
+
+### Electric Plant — Applied AI Engineer, Agent Systems
+**Ashby** `b44aa0c7-…` · Applied AI Agent Systems SF onsite soft-gate
+Pack `daily/2026-09-27-ashby-ic/10-electric-plant-applied-ai-engineer-agent-systems/`.
+
+### Assort Health — Senior Software Engineer - Agent Platform
+**Ashby** `e7e8dce0-…` · Senior SWE Agent Platform SF hybrid healthcare
+Pack `daily/2026-09-27-ashby-ic/11-assort-health-senior-software-engineer-agent-platform/`.
+
+### Normal Computing — Software Engineer, Agent Systems
+**Ashby** `51c718cf-…` · SWE Agent Systems NYC hybrid; ≠ Research Agentic EDA
+Pack `daily/2026-09-27-ashby-ic/12-normal-computing-software-engineer-agent-systems/`.
