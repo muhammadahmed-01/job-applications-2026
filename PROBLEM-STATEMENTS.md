@@ -1578,3 +1578,43 @@ Phase C soft SF. MTS Agentic Developer Experience. Applied 2026-09-22 evening.
 
 ### Docker — Principal Forward Deployed Engineer
 **Ashby** `f50260bc-…` · Containers + AI agents/MCP FDE; Principal stretch; remote OK.
+
+## 2026-09-27-lever Phase C Lever FORM FILLED wave
+
+Soft-gate geo. Sponsorship **No**. US auth **No**. Hear-about LinkedIn. EEO Asian (South Asian/Pakistani) / Male / Hispanic No / Veteran No.
+
+### Curai Health — Senior Applied AI Engineer
+Clinical LLM / Applied AI products. Pack `daily/2026-09-27-lever/01-curai-health-senior-applied-ai-engineer/`.
+
+### Tali AI — Senior/Staff Applied AI Engineer
+Clinical agents + evals. Pack `02-tali-ai-senior-staff-applied-ai-engineer/`.
+
+### Qualysoft — Senior Applied AI Engineer
+Enterprise GenAI agents. Pack `03-qualysoft-senior-applied-ai-engineer/`.
+
+### CI&T — AI Engineer Agentic SDLC, Brazil
+Agentic SDLC / CI-CD agents. Pack `04-ciandt-ai-engineer-agentic-sdlc/`.
+
+### TTEC Digital — Agentic AI Engineer (Google ADK / GCP)
+Multi-agent / Google ADK on GCP. Pack `05-ttec-digital-agentic-ai-engineer-gcp/`.
+
+### Extreme Networks — AI Staff SW Systems Engineer (AI Infra / Agentic)
+AI infra / agentic distributed systems (1 of 4 near-dupes packed). Pack `06-extreme-networks-ai-staff-sw-systems-engineer/`.
+
+### Binance — Could AI Engineer (posted title; Cloud AI)
+Cloud AI engineering. Pack `07-binance-cloud-ai-engineer/`.
+
+### Smile Digital Health — Software Engineer, AI/ML
+Healthcare data SWE AI/ML. Pack `08-smile-digital-health-software-engineer-ai-ml/`.
+
+### Mutt Data — Senior AI Engineer
+Senior AI Engineer IC. Pack `09-mutt-data-senior-ai-engineer/`.
+
+### Pattern — Senior Software Engineer, AI
+SWE AI product. Pack `10-pattern-senior-software-engineer-ai/`.
+
+### FloQast — Senior Software Engineer, AI
+SWE AI fintech/accounting; San Jose 3-day commute answered No (Lahore). Pack `11-floqast-senior-software-engineer-ai/`.
+
+### Brevo — Senior AI Software Engineer
+Senior AI SWE / marketing AI. Pack `12-brevo-senior-ai-software-engineer/`.
