@@ -1670,3 +1670,99 @@ Pack `daily/2026-09-27-ashby-ic/11-assort-health-senior-software-engineer-agent-
 ### Normal Computing — Software Engineer, Agent Systems
 **Ashby** `51c718cf-…` · SWE Agent Systems NYC hybrid; ≠ Research Agentic EDA
 Pack `daily/2026-09-27-ashby-ic/12-normal-computing-software-engineer-agent-systems/`.
+
+## SageLabs AI
+
+**Role focus (2026-09-28):** Senior Backend Engineer, Shopping Agents (Remote, Berlin).
+
+Senior Backend Engineer, Shopping AgentsSage AI Labs · Berlin · Full-time · [Remote]About usSage AI Labs is building the infrastructure that lets AI agents transact on the open web. It is one of the few genuinely unsolved problems left in commerce, and whoever solves it sets the defaults everyone else builds on top of.The company was founded by Sebastian Thrun (founder of Google X and Waymo, Udacity) and is backed by leading venture and strategic investors.About the roleWe build agents that shop for you. They find products across the open web and complete the purchase end to end. Real carts, r
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Mistral AI
+
+**Role focus (2026-09-28):** Applied AI, Forward Deployed Machine Learning Engineer - EMEA (, Paris).
+
+About MistralMistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North Americ
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Vidrush
+
+**Role focus (2026-09-28):** Senior Python Backend Engineer (AI / Agents) (Remote, United Kingdom).
+
+VidRush is an AI-native video production platform that replaces an entire video team with coordinated AI agents.Creators turn a simple idea into a fully produced, long-form video—research, script, voiceover, visuals, motion graphics, and rendering—in under an hour. No timelines. No editing headaches. Just intent → finished video.We’re building a new way to create video that feels more like writing than editing, and we’re already seeing strong traction from serious creators and media teams.If you’re excited about AI, creator tools, and building category-defining products from first principles,
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Scribe
+
+**Role focus (2026-09-28):** Senior Full-Stack Engineer, Agents (Remote, United States).
+
+About ScribeScribe is where exceptional people come to do the best work of their careers. More than 94% of the Fortune 500 use Scribe to own their specialized intelligence: the unique way their teams work, decide, and get things done. Our Specialized Intelligence platform automatically captures how work happens and turns it into a living asset that helps people and AI agents do their best work.We're growing fast, since our founding in 2019, we've grown to 7 million users across 600,000 businesses. Based in San Francisco, we've been named a LinkedIn Top Startup, are valued at over $1 billion, a
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Horizon3 AI
+
+**Role focus (2026-09-28):** Applied AI Engineer, Autonomous Defense (Remote, US, Remote).
+
+Get to Know UsHorizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud, and hybrid cloud environments. NodeZero has been adopted by organizations of all sizes, from small educational institutions to government agencies and Global 100 enterprises. It is used by ITOps/S
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Praecipio
+
+**Role focus (2026-09-28):** Applied AI Engineer (Remote, Chicago, IL).
+
+Applied AI EngineerYou are a builder. Your deliverable is a running system, not a framework or a strategy deck.Praecipio delivers AI-native services to enterprise clients: agentic workflow deployments, integrations, and hands-on builds. We also run the same transformation internally, building the agentic systems that change how our own delivery, sales, and operations teams work. Everyone on this team does both. The internal work is where we prove what is possible; the client work is where it pays.You will work alongside a technical lead who defines the architecture and an enablement lead who d
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Bedrock Ocean
+
+**Role focus (2026-09-28):** Staff AI Platform Engineer: Agent & Retrieval Infrastructure (Remote, Remote).
+
+About Bedrock OceanBedrock Ocean builds and operates autonomous underwater vehicles (AUVs) that collect georeferenced ocean-floor data at commercial scale. We deliver bathymetric and imagery data products to customers through our own platform, and we're scaling toward continuous, around-the-clock data collection campaigns spanning months at a time.We are building AI agents on Amazon Bedrock to support our ocean data, internal operations, and customer platform. This role owns that architecture.(One note on names. Amazon Bedrock is the AWS service. Bedrock Ocean is us. They are unrelated, and we
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## BLP Digital
+
+**Role focus (2026-09-28):** Senior Applied AI Engineer (Remote, London).
+
+Join BLP and help make the world’s business processes autonomous! Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with greater control and significant productivity gains. Today, over 550 enterprise customers use BLP across 1,300+ deployed projects. In the processes we automate, customers achieve productivity improvements of 5 to 10 times. To date, BLP remains majority employee-owned, with Goldman Sachs holding a minority stake as a growth investor. Our success is driven by deep expertise in technol
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## TLDR Tech
+
+**Role focus (2026-09-28):** Senior Software Engineer, Applied AI (Remote, Remote).
+
+Who We Are🏔Product: TLDR’s mission is to increase tech's signal-to-noise ratio.Today that means the largest network of tech newsletters in the world, with over 8M subscribers covering startups, software engineering, AI, cybersecurity, product, and more. What makes it work is who writes it. Every issue comes from people building in tech, not reporters covering it. Our writers keep their day jobs: two engineers at Coinbase write TLDR Crypto, engineers at DeepMind and Meta write TLDR Dev, researchers at Anthropic and Adobe write TLDR AI, and robotics and datacenter strategy leads at OpenAI and Me
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Voize
+
+**Role focus (2026-09-28):** Senior Backend Engineer  (m/f/d) - Agent SDK (Remote, Berlin).
+
+🎤 Why voize? Because we're more than just a job!At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people.Our vision is to change that by building AI companions that seamlessly take over digital workflows. We don't replace humans with technology - we amplify their impact.Our mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs. Today, 2,000+ facilities t
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## TRM Labs
+
+**Role focus (2026-09-28):** Agent Engineer - US Remote (Remote, United States).
+
+Build a Safer World.TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.The AI Engineering Team is chartered with enabling next-generation AI applications, with a special focus on Large Language Models (LLMs) and agentic systems. Our mission is to build robust pipelines, high-performance infrastruct
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+## Ascertain
+
+**Role focus (2026-09-28):** Forward Deployed Engineer (Remote, Remote).
+
+Meet AscertainAscertain is building AI agents to automate the administrative work that burdens care teams. We are in major health systems and large specialty groups, saving hundreds of staff hours every week.Our backers include Northwell Health, New York’s largest health system, and Deerfield Management, a leading healthcare investment firm.Together, we’re on a mission to restore time, trust, and focus to the people who keep healthcare running. Our work is urgent — not because of startup timelines, but because our customers rely on us to drive financial resilience and operational clarity in a
+
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
