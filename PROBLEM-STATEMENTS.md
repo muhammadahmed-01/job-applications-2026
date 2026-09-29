@@ -1766,3 +1766,183 @@ Build a Safer World.TRM Labs provides AI-powered intelligence solutions that hel
 Meet AscertainAscertain is building AI agents to automate the administrative work that burdens care teams. We are in major health systems and large specialty groups, saving hundreds of staff hours every week.Our backers include Northwell Health, New York’s largest health system, and Deerfield Management, a leading healthcare investment firm.Together, we’re on a mission to restore time, trust, and focus to the people who keep healthcare running. Our work is urgent — not because of startup timelines, but because our customers rely on us to drive financial resilience and operational clarity in a
 
 **Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.
+
+
+## Company problems → role map (2026-09-29 Ashby batch)
+
+
+### Elliptic
+
+**Company problem (MEASURED):** Elliptic is building AI-powered tools that enable the business to scale faster and with greater confidence. Our operations team is at the centre of that work — designing the backend systems and AI integrations behind Elliptic's agentic transformation. This transformation is all about rethinking existing business processes – from workflows to ticket queues to decisions – and enabling our workforce to take the next great leap forward in productivity. We're looking for a full-st…
+
+**Role packed:** Agent Engineer  
+**Apply:** https://jobs.ashbyhq.com/elliptic/6f9f8612-ce3b-4eb6-a340-d85277a3ecbf/application  
+**Workplace:** Hybrid · London, United Kingdom  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Kong
+
+**Company problem (MEASURED):** Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Architect the future of machine-to-machine commerce as a founding member of a zero-to-one engineering squad. You will design, build, and scale the coordination fabric for…
+
+**Role packed:** Senior Staff Software Engineer - Agent Marketplace  
+**Apply:** https://jobs.ashbyhq.com/kong/ea7b507b-b249-4cf2-88ea-09fbbaf32acb/application  
+**Workplace:** Hybrid · San Francisco, California, United States  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Oscilar
+
+**Company problem (MEASURED):** Shape the future of trust in the age of AI At Oscilar, we're building the most advanced AI Risk Decisioning™ Platform. Banks, fintechs, and digitally native organizations rely on us to manage their fraud, credit, and compliance risk with the power of AI. If you're passionate about solving complex problems and making the internet safer for everyone, this is your place. ## Why join us: - Mission-driven teams: Work alongside industry veterans from Meta, Uber, Citi, and Confluent…
+
+**Role packed:** Full-Stack Engineer – AI Agent Platform (Fraud, Risk & AML)  
+**Apply:** https://jobs.ashbyhq.com/oscilar/4326a0be-8156-4485-bb2e-3513331c6866/application  
+**Workplace:** Hybrid · Oscilar Palo Alto  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### LeanData
+
+**Company problem (MEASURED):** LeanData helps the world’s fastest-growing companies automate, simplify, and accelerate revenue. ## We are looking for a Staff Engineer to design and ship the production multi-agent systems at the core of LeanData’s new platform of autonomous agents for go-to-market teams. This is a Staff-level individual-contributor role with founding-level ownership. You own the orchestration, tool-integration, memory, and coordination layers that let agents reason over go-to-market data an…
+
+**Role packed:** Staff Engineer, Agents  
+**Apply:** https://jobs.ashbyhq.com/leandata/9a371c01-13f4-4a6a-a9ad-91ede7ec54a4/application  
+**Workplace:** Hybrid · Santa Clara  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### monday.com
+
+**Company problem (MEASURED):** Luna is a new startup inside monday.com Agent Labs, founded and run by monday.com's CEO, the program that spins up independent startups from scratch. Each one runs like a seed-stage company: a tiny team, a real product, real users, with monday.com's backing and distribution. Luna already has a live product, a pile of open problems nobody has answered yet, and no layers between you and the person making the calls. We're hiring the engineer who builds it. You work directly with…
+
+**Role packed:** Agent Engineer, Luna  
+**Apply:** https://jobs.ashbyhq.com/monday.com/0b0b653c-2d75-4bbb-aea1-1a805620b740/application  
+**Workplace:** Hybrid · Tel Aviv  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Adaption
+
+**Company problem (MEASURED):** ## The Role You'll build the agent systems at the core of our product. These systems turn customer goals into reliable, multi-step execution across real tools and services. This is not about building demos. You'll work on agents that operate under real constraints: incomplete information, external failures, limited budgets, and unpredictable traffic. You'll own how they plan, use tools, recover from errors, and improve over time. ## Responsibilities - Design agent architectur…
+
+**Role packed:** Agent Systems Engineer  
+**Apply:** https://jobs.ashbyhq.com/adaption/23ae2f19-4917-4e6a-8e0d-0e928c531019/application  
+**Workplace:** Hybrid · San Francisco  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Nord Security
+
+**Company problem (MEASURED):** At Saily, we’re removing the hassle of staying connected while traveling — no roaming fees, no plastic SIM cards, just lightning-fast, secure mobile data in 200+ destinations. Saily has millions of paying customers and hundreds of thousands of travelers browsing through Saily at any given moment. To build the best product for our customers, we foster an AI-native Product Engineering culture, where: - The Engineer is the builder, who is responsible for solving customer problem…
+
+**Role packed:** Agentic Product Engineer | Senior | Saily  
+**Apply:** https://jobs.ashbyhq.com/nord-security/8a44b343-24e5-4336-a07e-7d0f110e370e/application  
+**Workplace:** Hybrid · Warsaw  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Trulioo
+
+**Company problem (MEASURED):** Are you ready to embark on a career that truly affects people around the world? Trulioo invites you to be a catalyst for change in the dynamic realm of digital identity verification. As the global front-runner in our industry, we are redefining how businesses grow, innovate and comply online. Picture yourself at the forefront of innovation, contributing to our award-winning platform that enables organizations worldwide to quickly onboard customers, optimize costs and combat f…
+
+**Role packed:** Staff Engineer or Architect (AI Agentic Team)  
+**Apply:** https://jobs.ashbyhq.com/trulioo/ee957528-7ae9-46d8-8b17-e8cade14f815/application  
+**Workplace:** Hybrid · Vancouver, BC  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Xero
+
+**Company problem (MEASURED):** ## Job Advert Senior Software Engineer, AI Enablement The role & impact You'll join a small team that builds the tools, platforms and best practices helping engineers across Xero work with AI. Rather than shipping something once and moving on, you'll own it end to end from early experimentation through to production, including the run books, monitoring and rollback thinking that keep it reliable once real engineers depend on it day to day. This is a role with real influence.…
+
+**Role packed:** Senior Engineer - AI Agentic  
+**Apply:** https://jobs.ashbyhq.com/xero/8fed11a8-5109-4787-8a2a-a75d860703e2/application  
+**Workplace:** Hybrid · AU: Melbourne: (260 Burwood Rd)  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Hims & Hers
+
+**Company problem (MEASURED):** Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions…
+
+**Role packed:** Principal Engineer, Applied AI (Fullstack/Backend)  
+**Apply:** https://jobs.ashbyhq.com/hims-and-hers/9c7a4fce-8116-439b-8842-ae7473290fd7/application  
+**Workplace:** Remote · US Remote  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Commure
+
+**Company problem (MEASURED):** At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-native platform integrated with 60+ EHRs. Healthcare carries a $1 trillion administr…
+
+**Role packed:** Senior Software Engineer, Agent Platform  
+**Apply:** https://jobs.ashbyhq.com/commure/145d71a2-94d2-40b8-98c3-ea20525c0521/application  
+**Workplace:** Hybrid · Rio de Janeiro, Brazil  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Taktile
+
+**Company problem (MEASURED):** About the role Taktile empowers financial institutions to transform into truly AI-native organizations. We’re growing rapidly with enterprise customers across banks and insurance companies, and we’re looking for a Senior Full-Stack Engineer to join our Agent team. We are building a platform for creating, publishing, and executing AI-powered agents that help teams automate complex workflows in financial services. The Agents team owns the agent execution runtime, tool orchestra…
+
+**Role packed:** Senior Full-Stack Engineer - Team Agent  
+**Apply:** https://jobs.ashbyhq.com/taktile/c9d47dd2-3252-4266-a581-b9d1b46e9297/application  
+**Workplace:** Hybrid · Berlin Office   
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Wealth.com
+
+**Company problem (MEASURED):** About Us Wealth.com is the industry’s leading estate planning platform, empowering more than 1,000 wealth management firms to modernize how they talk about estate planning with their clients. As the only tech-led, end-to-end platform built specifically for financial institutions, Wealth.com enables firms to drive scale, efficiency, and measurable client impact. Trusted by some of the largest names in finance, Wealth.com combines proprietary AI, robust security, and deep techn…
+
+**Role packed:** Senior Software Engineer, Applied AI  
+**Apply:** https://jobs.ashbyhq.com/wealth-com/aed6e39e-06e5-40c3-8a26-e62a33bc4810/application  
+**Workplace:** Hybrid · New York, New York  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### MaintainX
+
+**Company problem (MEASURED):** MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk Operations Solutions, the organization unifying Autodesk's operations platform alongside Tand…
+
+**Role packed:** Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/maintainx/aea3772f-8468-481c-a9a4-240f37b06a5e/application  
+**Workplace:** Hybrid · Canada  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Owner
+
+**Company problem (MEASURED):** About Owner Owner is the AI-native system local business owners use to succeed, starting with restaurants. We’re building the system that replaces the many tools owners use to run their business. It powers everything from the restaurant’s website, online ordering, CRM, POS, and more. Product philosophy Most small business software makes owners do the work to get what they want: sales growth and profit growth. Owner does the work for them agentically. Our system drives demand,…
+
+**Role packed:** Applied AI Lead   
+**Apply:** https://jobs.ashbyhq.com/owner/9ce6e4c9-199c-45f3-b4cb-3f8ba3a18ce8/application  
+**Workplace:** Remote · Remote - United States or Canada  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
+
+### Rula
+
+**Company problem (MEASURED):** We believe that mental health is just as important as physical health. We recognize that mental health issues can be complex and multifaceted, and we are dedicated to treating the whole person, not just the symptoms. We aim to create a world where mental health is no longer stigmatized or marginalized, but rather is embraced as an integral part of one's overall well-being. We believe that by providing quality care that is both evidence-based and compassionate, we can empower…
+
+**Role packed:** Sr. Staff Engineer - Applied AI, Patient  (Remote)  
+**Apply:** https://jobs.ashbyhq.com/rula/6a13267b-3f5c-4284-a79f-e87b89f471bc/application  
+**Workplace:** Remote · Remote - United States  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
+
