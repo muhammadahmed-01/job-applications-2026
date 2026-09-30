@@ -1946,3 +1946,218 @@ Meet AscertainAscertain is building AI agents to automate the administrative wor
 **Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
 **Soft gates:** Phase C soft geo/visa · `build_candidate: undecided`
 
+
+
+---
+
+## Company problems → role map (2026-09-30 Ashby Phase C pack)
+
+### 30. Writer
+
+**Company problem (MEASURED):** WRITER is where the world's leading enterprises orchestrate AI-powered work. Our vision is to expand human capacity through superintelligence. And we're proving it's possible – through powerful, trustworthy AI that unites IT and business teams together to unlock enterprise-wide transformation. With WRITER's end-to-end platform, hundreds of companies like Mars, Marriott, Uber, and Vanguard are building and deploying AI agents that are grounded in their company's data and fueled by WRITER's enterp
+
+**Role applied:** Software engineer, connectors & MCP  
+**Apply:** https://jobs.ashbyhq.com/writer/699a2c97-5273-4954-a92a-a2ccee95c95e/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Hybrid San Francisco, CA; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/01-writer-software-engineer-connectors-mcp/`
+
+### 31. Serval
+
+**Company problem (MEASURED):** Serval is an AI-native automation platform transforming how enterprises operate. We build intelligent agents that understand real-world workflows and execute them end-to-end — replacing manual processes and rigid legacy systems with adaptive, learning software. Founded in early 2024, Serval is already trusted by companies like Fox, Notion, Perplexity, Vercel, and Brex to automate high-volume, high-friction operational work across their organizations.
+
+**Role applied:** Software Engineer, Agent Systems  
+**Apply:** https://jobs.ashbyhq.com/serval/2bfaede4-22b2-43b2-a14c-f45e5f398624/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** OnSite San Francisco; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/02-serval-software-engineer-agent-systems/`
+
+### 32. Planera
+
+**Company problem (MEASURED):** Join Planera to build Manny, our AI scheduling assistant, and shape how construction schedulers work with AI on a modern Critical Path Method platform. You will own agent features end to end: designing and evolving the LangGraph/LangChain agent, engineering prompts and tools, integrating LLMs across providers, and holding response quality to a high bar with a real evaluation and observability stack. This is a hands-on applied AI role with a strong software engineering foundation and a focus on r
+
+**Role applied:** Senior AI Agent Engineer  
+**Apply:** https://jobs.ashbyhq.com/planera/d68c8a09-a11d-409e-85ca-5d434caf3fc8/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Remote United States; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/03-planera-senior-ai-agent-engineer/`
+
+### 33. LiveKit
+
+**Company problem (MEASURED):** LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.
+
+**Role applied:** Software Engineer, Agents  
+**Apply:** https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Remote North America; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/04-livekit-software-engineer-agents/`
+
+### 34. Gravie
+
+**Company problem (MEASURED):** Hi, we’re Gravie. Our mission is to create health benefits that actually benefit small and midsize businesses and their employees. Our innovative benefit solutions and services are developed and delivered by a diverse group of unique people. We encourage you to be your authentic self - we like you that way.
+
+**Role applied:** Senior Software Engineer, Applied AI  
+**Apply:** https://jobs.ashbyhq.com/gravie/6ecf193d-2b2f-42ec-b873-8feff8d57594/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Remote Remote; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/05-gravie-senior-software-engineer-applied-ai/`
+
+### 35. CreatorIQ
+
+**Company problem (MEASURED):** CreatorIQ is the operating system for creator-led growth trusted by more than 1,300 global brands and agencies.
+
+**Role applied:** Senior Fullstack Engineer, Agentic Experience  
+**Apply:** https://jobs.ashbyhq.com/creatoriq/02e9cf8f-bc0d-48bf-a066-5c46d7d7b2c5/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Remote San Francisco; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/06-creatoriq-senior-fullstack-engineer-agentic-experience/`
+
+### 36. Mirage
+
+**Company problem (MEASURED):** Mirage is an AI video company focused on making creation dramatically easier. Our team tackles some of the hardest creative and technical challenges in generative media.
+
+**Role applied:** Software Engineer, Agents   
+**Apply:** https://jobs.ashbyhq.com/mirage/dc5089f3-c494-47ed-9312-edebd032c218/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:**  Union Square, New York City; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/07-mirage-software-engineer-agents/`
+
+### 37. Campfire
+
+**Company problem (MEASURED):** Campfire is on a mission to redefine the accounting software landscape by taking on giants like Netsuite to build modern accounting software for startups and mid-size tech companies. We graduated from Y Combinator's Summer 2023 cohort, and we are backed by prominent investors like Foundation Capital and a rapidly growing customer base.
+
+**Role applied:** AI Engineer - Agents  
+**Apply:** https://jobs.ashbyhq.com/campfire/d7f80e1c-e92a-49df-8ac8-4be6179e5387/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** OnSite San Francisco; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/08-campfire-ai-engineer-agents/`
+
+### 38. Airwallex
+
+**Company problem (MEASURED):** Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 676,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.
+
+**Role applied:** Staff Backend Engineer, Agentic AI   
+**Apply:** https://jobs.ashbyhq.com/airwallex/613cbcbf-18df-4f97-b17a-1a30821755d6/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Hybrid US - San Francisco; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/09-airwallex-staff-backend-engineer-agentic-ai/`
+
+### 39. DataSnipper
+
+**Company problem (MEASURED):** We are looking for a Senior Software Engineer to join the AI Agents Team at DataSnipper. You will build the intelligence layer that orchestrates the full assurance lifecycle from risk assessment to control testing, evidence gathering, and documentation generation, directly reducing manual effort and accelerating audit outcomes for our customers.
+
+**Role applied:** Senior Software Engineer, AI Agents  
+**Apply:** https://jobs.ashbyhq.com/datasnipper/4b98cae3-3391-44fd-a71d-ea7d2e6cfba3/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:**  Amsterdam; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/10-datasnipper-senior-software-engineer-ai-agents/`
+
+### 40. Salient
+
+**Company problem (MEASURED):** Salient builds AI agents for regulated financial services. Our agents automate loan servicing, compliance, collections, recovery, insurance claims, and disputes for banks, captives, and specialty lenders.
+
+**Role applied:** Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** OnSite SF Headquarters; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/11-salient-applied-ai-engineer/`
+
+### 41. Sable
+
+**Company problem (MEASURED):** Sable built Aidan, the first AI employee who can lead customer calls using realtime voice, vision, and browser use. Aidan runs a live, two-way conversation inside a real product environment, clicking through the product like a human, watching the user's screen, and adapting the journey on the fly. Every conversation feeds a self-improving context graph we call the Brain, so Aidan gets smarter with each call.
+
+**Role applied:** Applied AI Engineer, Generalist  
+**Apply:** https://jobs.ashbyhq.com/sable/592b59d3-828d-4b2d-b925-64262ba0728e/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** OnSite San Francisco; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/12-sable-applied-ai-engineer-generalist/`
+
+### 42. Kaizen Labs
+
+**Company problem (MEASURED):** Government technology has failed citizens, public servants, and service members for decades.
+
+**Role applied:** Applied AI Engineer  
+**Apply:** https://jobs.ashbyhq.com/kaizenlabs/fea8a38f-0f22-47d6-bbf9-a72ef6bb215c/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Hybrid New York, NY; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/13-kaizen-labs-applied-ai-engineer/`
+
+### 43. Fieldguide
+
+**Company problem (MEASURED):** Fieldguide is establishing a new state of trust for global commerce and capital markets by automating and streamlining the work of assurance and audit practitioners—specifically in cybersecurity, privacy, and financial audits. We build software for the people who enable trust between businesses.
+
+**Role applied:** Senior Software Engineer, Agents (Foundation Agents)  
+**Apply:** https://jobs.ashbyhq.com/fieldguide/2554d3e4-a835-4739-b022-6058d97e2517/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Hybrid San Francisco, CA; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/14-fieldguide-senior-software-engineer-agents-foundation-agents/`
+
+### 44. Firecrawl
+
+**Company problem (MEASURED):** Firecrawl is looking for a high-agency, product-minded engineer with strong experimental and data instincts to own how agents discover, understand, and use Firecrawl. You'll ship fast, run rigorous A/B tests, and turn what you learn into a better product, for an audience that isn't human.
+
+**Role applied:** Agent Experience Engineer  
+**Apply:** https://jobs.ashbyhq.com/firecrawl/a81209e5-5e75-4ac8-905a-0df49891d61b/application
+
+| Role ask (JD) | Muhammad map |
+|---------------|--------------|
+| Agents / MCP / applied AI (see jd.md) | Careem MCP + Slack HITL; Go/Java payments backend; FinOps RAGAS lab only |
+| Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
+
+**Soft gates:** Hybrid San Francisco HQ; Toronto Hub; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/15-firecrawl-agent-experience-engineer/`
