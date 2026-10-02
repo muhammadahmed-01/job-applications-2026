@@ -2161,3 +2161,135 @@ Meet AscertainAscertain is building AI agents to automate the administrative wor
 | Production reliability | Tier-1 on-call; hot-path latency; concurrency bugfix |
 
 **Soft gates:** Hybrid San Francisco HQ; Toronto Hub; sponsorship No; geo soft · `build_candidate: undecided` · pack `daily/2026-09-30/15-firecrawl-agent-experience-engineer/`
+
+
+## 2026-10-02 Phase C Ashby shortlist (Grok Bot)
+
+### Brandlight — Senior Applied AI Engineer
+- **Track:** Phase C · Ashby `brandlight` · `c57dc98c-3926-495c-a3e7-36520a5aa0b5`
+- **Location:** TLV Office
+- **Apply:** https://jobs.ashbyhq.com/brandlight/c57dc98c-3926-495c-a3e7-36520a5aa0b5/application
+- **Pack:** `daily/2026-10-02/01-brandlight-senior-applied-ai-engineer/` · PDF `Muhammad_Ahmed_Brandlight_Senior_Applied_AI_Engineer.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Taktile — Sr. Applied AI Engineer
+- **Track:** Phase C · Ashby `taktile` · `fd4d4145-62df-438d-9667-92b5ecbbfa7d`
+- **Location:** London Office 
+- **Apply:** https://jobs.ashbyhq.com/taktile/fd4d4145-62df-438d-9667-92b5ecbbfa7d/application
+- **Pack:** `daily/2026-10-02/02-taktile-sr-applied-ai-engineer/` · PDF `Muhammad_Ahmed_Taktile_Sr_Applied_AI_Engineer.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Stuut AI — Applied AI Engineer, GTM
+- **Track:** Phase C · Ashby `stuut-ai` · `a8e3f2c4-505e-467a-a834-140fc13f3af2`
+- **Location:** New York City
+- **Apply:** https://jobs.ashbyhq.com/stuut-ai/a8e3f2c4-505e-467a-a834-140fc13f3af2/application
+- **Pack:** `daily/2026-10-02/03-stuut-ai-applied-ai-engineer-gtm/` · PDF `Muhammad_Ahmed_Stuut_AI_Applied_AI_Engineer_GTM.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### 42dot — Senior AI Agent Engineer (Gleo Interactor)
+- **Track:** Phase C · Ashby `42dot` · `464eb98e-07e6-4cd4-af5d-2d9e9322a3cc`
+- **Location:** Pangyo (Software Dream Center), South Korea
+- **Apply:** https://jobs.ashbyhq.com/42dot/464eb98e-07e6-4cd4-af5d-2d9e9322a3cc/application
+- **Pack:** `daily/2026-10-02/04-42dot-senior-ai-agent-engineer-gleo-interactor/` · PDF `Muhammad_Ahmed_42dot_Senior_AI_Agent_Engineer_Gleo_Interactor.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Armory — Applied AI Engineer
+- **Track:** Phase C · Ashby `armory` · `fe7f9996-7338-4eae-b909-3684a849191d`
+- **Location:** New York City
+- **Apply:** https://jobs.ashbyhq.com/armory/fe7f9996-7338-4eae-b909-3684a849191d/application
+- **Pack:** `daily/2026-10-02/06-armory-applied-ai-engineer/` · PDF `Muhammad_Ahmed_Armory_Applied_AI_Engineer.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### People Culture Talent — Forward Deployed Engineer (FDE)
+- **Track:** Phase C · Ashby `people-culture-talent` · `6655c179-5130-4897-8126-96f4f57a39cc`
+- **Location:** San Francisco, CA
+- **Apply:** https://jobs.ashbyhq.com/people-culture-talent/6655c179-5130-4897-8126-96f4f57a39cc/application
+- **Pack:** `daily/2026-10-02/07-people-culture-talent-forward-deployed-engineer-fde/` · PDF `Muhammad_Ahmed_People_Culture_Talent_Forward_Deployed_Engineer_FDE.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Revin — Forward Deployed Engineer (FDE)
+- **Track:** Phase C · Ashby `revin` · `8c25ce0d-e405-477d-acea-3cf6d0109356`
+- **Location:** New York City
+- **Apply:** https://jobs.ashbyhq.com/revin/8c25ce0d-e405-477d-acea-3cf6d0109356/application
+- **Pack:** `daily/2026-10-02/08-revin-forward-deployed-engineer-fde/` · PDF `Muhammad_Ahmed_Revin_Forward_Deployed_Engineer_FDE.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Climb AI — Forward Deployed Engineer
+- **Track:** Phase C · Ashby `climb-ai` · `a512563b-1db1-4a55-8eab-9e7e42843f44`
+- **Location:** United States (Remote)
+- **Apply:** https://jobs.ashbyhq.com/climb-ai/a512563b-1db1-4a55-8eab-9e7e42843f44/application
+- **Pack:** `daily/2026-10-02/09-climb-ai-forward-deployed-engineer/` · PDF `Muhammad_Ahmed_Climb_AI_Forward_Deployed_Engineer.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Brainbase Labs — Forward Deployed Engineer, EMEA
+- **Track:** Phase C · Ashby `brainbaselabs` · `ad4e24e1-7f85-419d-b15a-d589540ea8fa`
+- **Location:** Remote (EMEA)
+- **Apply:** https://jobs.ashbyhq.com/brainbaselabs/ad4e24e1-7f85-419d-b15a-d589540ea8fa/application
+- **Pack:** `daily/2026-10-02/10-brainbase-labs-forward-deployed-engineer-emea/` · PDF `Muhammad_Ahmed_Brainbase_Labs_Forward_Deployed_Engineer_EMEA.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### DataSnipper — Forward Deployed Engineer (Audit experience required)
+- **Track:** Phase C · Ashby `datasnipper` · `743b4a63-bf1a-44c1-87e6-a9c963a2f74f`
+- **Location:** Amsterdam
+- **Apply:** https://jobs.ashbyhq.com/datasnipper/743b4a63-bf1a-44c1-87e6-a9c963a2f74f/application
+- **Pack:** `daily/2026-10-02/11-datasnipper-forward-deployed-engineer-audit-experience-required/` · PDF `Muhammad_Ahmed_DataSnipper_Forward_Deployed_Engineer_Audit_experience_require.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Doppel — Forward Deployed Engineer (Remote)
+- **Track:** Phase C · Ashby `doppel` · `bae7bcc9-afff-4f50-91e4-2c8d3580cd23`
+- **Location:** US Remote
+- **Apply:** https://jobs.ashbyhq.com/doppel/bae7bcc9-afff-4f50-91e4-2c8d3580cd23/application
+- **Pack:** `daily/2026-10-02/12-doppel-forward-deployed-engineer-remote/` · PDF `Muhammad_Ahmed_Doppel_Forward_Deployed_Engineer_Remote.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Magical — AI Forward Deployed Engineer
+- **Track:** Phase C · Ashby `magical` · `55801f62-d42b-4c68-87ba-01c483ba4459`
+- **Location:** Toronto
+- **Apply:** https://jobs.ashbyhq.com/magical/55801f62-d42b-4c68-87ba-01c483ba4459/application
+- **Pack:** `daily/2026-10-02/13-magical-ai-forward-deployed-engineer/` · PDF `Muhammad_Ahmed_Magical_AI_Forward_Deployed_Engineer.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### monday.com — Forward Deployed Engineer - APJ
+- **Track:** Phase C · Ashby `monday.com` · `e9b671aa-1de3-444b-a1e7-daad8731c5ce`
+- **Location:** Singapore
+- **Apply:** https://jobs.ashbyhq.com/monday.com/e9b671aa-1de3-444b-a1e7-daad8731c5ce/application
+- **Pack:** `daily/2026-10-02/14-monday-com-forward-deployed-engineer-apj/` · PDF `Muhammad_Ahmed_monday_com_Forward_Deployed_Engineer_APJ.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Commure — Software Engineer, Applied AI (Brazil)
+- **Track:** Phase C · Ashby `commure` · `f947983b-ebcc-44b9-b329-2eaf498e2aa7`
+- **Location:** Sao Paulo, Brazil
+- **Apply:** https://jobs.ashbyhq.com/commure/f947983b-ebcc-44b9-b329-2eaf498e2aa7/application
+- **Pack:** `daily/2026-10-02/15-commure-software-engineer-applied-ai-brazil/` · PDF `Muhammad_Ahmed_Commure_Software_Engineer_Applied_AI_Brazil.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Exa — Forward Deployed Engineer, EMEA
+- **Track:** Phase C · Ashby `exa` · `234bf118-672a-45d1-a4a2-02065d1c02f0`
+- **Location:** London
+- **Apply:** https://jobs.ashbyhq.com/exa/234bf118-672a-45d1-a4a2-02065d1c02f0/application
+- **Pack:** `daily/2026-10-02/16-exa-forward-deployed-engineer-emea/` · PDF `Muhammad_Ahmed_Exa_Forward_Deployed_Engineer_EMEA.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
+### Sardine — Forward Deployed Engineer, Integrations 
+- **Track:** Phase C · Ashby `sardine` · `5a6411d4-455f-48d5-a282-7bec2bec3494`
+- **Location:** United States / Canada
+- **Apply:** https://jobs.ashbyhq.com/sardine/5a6411d4-455f-48d5-a282-7bec2bec3494/application
+- **Pack:** `daily/2026-10-02/18-sardine-forward-deployed-engineer-integrations/` · PDF `Muhammad_Ahmed_Sardine_Forward_Deployed_Engineer_Integrations.pdf`
+- **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
+- **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
+
