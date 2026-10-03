@@ -2293,3 +2293,149 @@ Meet AscertainAscertain is building AI agents to automate the administrative wor
 - **Status:** READY 2026-10-02 — awaiting computerUse Submit (Task tool unavailable to executor subagent)
 - **Hook:** ~3 YOE Applied AI / FDE / agents; Careem MCP+HITL; soft-gate geo
 
+
+
+## Docebo
+
+Docebo — learning platform; Founding FDE embeds with customers to ship AI/API connectivity outcomes.
+
+
+## Lilt
+
+Lilt — AI translation; FDE owns customer deployments of translation/LLM workflows.
+
+
+## BJAK
+
+BJAK — SEA fintech; Applied AI Engineer builds AI Finance Agent workflows (ops/product automation).
+
+
+## Uforce
+
+Uforce — FDE role (UK remote); customer-facing agent/implementation engineering.
+
+
+## Wonderful
+
+Wonderful — FDE Germany; customer deployment of AI/agent systems.
+
+
+## Antithesis
+
+Antithesis — deterministic simulation/testing; FDE helps customers adopt reliability tooling.
+
+
+## Tenex
+
+Tenex — security ops AI; Forward Deployed Implementation Engineer (Dubai/London).
+
+
+## Nomos
+
+Nomos — Applied AI Berlin; product/engineering applied AI build.
+
+
+## Oscilar
+
+Oscilar — risk decisioning; FDE deploys agentic fraud/AML workflows with customers.
+
+## 2026-10-03 Phase C Ashby shortlist (Grok Bot)
+
+New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). Existing company sections (Oscilar, n8n, ElevenLabs, Taktile, monday.com, Cognition) unchanged — role packs listed below.
+
+### Docebo
+
+**Company problem (MEASURED):** Artificial Intelligence. Actual Impact. At Docebo, we’re using AI to change how people learn at work—and we mean actually change it. We’re an AI-powered learning platform that helps organizations create, deliver, and manage training all in one place. But our real mission goes deeper: we help teams move faster, work smarter, and focus on the work that truly matters. Our…
+
+**Role packed:** Founding Forward Deployed Engineer  
+**Apply:** https://jobs.ashbyhq.com/docebo/273845bc-2e43-4e48-99fe-815ff6188d8a/application  
+**Workplace:** Remote Canada  
+**Pack:** `daily/2026-10-03/01-docebo-founding-forward-deployed-engineer` · PDF `Muhammad_Ahmed_Docebo_Founding_Forward_Deployed_Engineer.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Lilt
+
+**Company problem (MEASURED):** ABOUT LILT AI is changing how the world communicates — and LILT is leading that transformation. We're on a mission to make the world's information accessible to everyone, regardless of the language they speak. We use cutting-edge AI, machine translation, and human-in-the-loop expertise to translate content faster, more accurately, and more cost-effectively without compromising…
+
+**Role packed:** Forward Deployed Engineer  
+**Apply:** https://jobs.ashbyhq.com/lilt-corporate/179ef1bd-3deb-49a6-ba8f-6426540cb2e1/application  
+**Workplace:** London, UK  
+**Pack:** `daily/2026-10-03/02-lilt-forward-deployed-engineer-london` · PDF `Muhammad_Ahmed_Lilt_Forward_Deployed_Engineer.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### BJAK
+
+**Company problem (MEASURED):** ABOUT BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways…
+
+**Role packed:** Applied AI Engineer - AI Finance Agent  
+**Apply:** https://jobs.ashbyhq.com/bjakcareer/b1e73b18-5191-4c06-8f66-3ede3b88702b/application  
+**Workplace:** Netherlands  
+**Pack:** `daily/2026-10-03/08-bjak-applied-ai-engineer-finance-agent-netherlands` · PDF `Muhammad_Ahmed_BJAK_Applied_AI_Engineer_AI_Finance_Agent.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Uforce
+
+**Company problem (MEASURED):** UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, autonomy software, and the command-and-control layer that operates them together. Each platform is deployable on its own,…
+
+**Role packed:** Forward Deployed Engineer  
+**Apply:** https://jobs.ashbyhq.com/uforce/7d712fb8-5276-42ef-ab34-c3a2c2128ea1/application  
+**Workplace:** United Kingdom | Remote  
+**Pack:** `daily/2026-10-03/09-uforce-forward-deployed-engineer-uk` · PDF `Muhammad_Ahmed_Uforce_Forward_Deployed_Engineer.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Wonderful
+
+**Company problem (MEASURED):** FORWARD DEPLOYED ENGINEER, (F/M/X) GERMANY - HYBRID THE ROLE As a Forward Deployed Engineer at Wonderful, you’ll turn complex enterprise workflows into AI agents that work in the real world. You’ll operate at the intersection of engineering, product, and customer delivery. Embedding directly with enterprise teams, you’ll uncover how their operations actually run, identify…
+
+**Role packed:** Forward Deployed Engineer  
+**Apply:** https://jobs.ashbyhq.com/wonderful/66fceb23-9367-4ef4-a73d-3c8b80d223f6/application  
+**Workplace:** Germany  
+**Pack:** `daily/2026-10-03/10-wonderful-forward-deployed-engineer-germany` · PDF `Muhammad_Ahmed_Wonderful_Forward_Deployed_Engineer.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Antithesis
+
+**Company problem (MEASURED):** ABOUT ANTITHESIS We’re on a mission to redefine how modern distributed systems are tested and released. Our platform is trusted by engineering teams who demand rock-solid reliability, scalable performance, and deep technical visibility. Our platform doesn’t just assure system correctness and reliability, it exists because developers need something better. If you’ve ever…
+
+**Role packed:** Forward Deployed Engineer  
+**Apply:** https://jobs.ashbyhq.com/antithesis/3f254084-898c-4e5c-ac0d-81be8996e59b/application  
+**Workplace:** London, UK  
+**Pack:** `daily/2026-10-03/11-antithesis-forward-deployed-engineer-london` · PDF `Muhammad_Ahmed_Antithesis_Forward_Deployed_Engineer.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Tenex
+
+**Company problem (MEASURED):** COMPANY OVERVIEW TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We combine cutting-edge AI with human expertise to deliver security operations that are better, faster, and more cost-effective than traditional approaches. We're a fast-growing startup backed by industry experts and top-tier investors led by Crosspoint…
+
+**Role packed:** Forward Deployed Implementation Engineer (Dubai)  
+**Apply:** https://jobs.ashbyhq.com/tenex/1488b267-037e-4094-9198-8d82ae43a703/application  
+**Workplace:** Remote-UAE  
+**Pack:** `daily/2026-10-03/12-tenex-forward-deployed-engineer-dubai` · PDF `Muhammad_Ahmed_Tenex_Forward_Deployed_Implementation_Engineer_Dubai.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### Nomos
+
+**Company problem (MEASURED):** ABOUT NOMOS Europe pays more than twice as much for electricity as the US or Asia. To reach competitive price levels, Europe has to lean on solar and deliver the flexibility that makes this feasible. Nomos is building a full-stack power company to unlock that flexibility by connecting millions of homes to Europe’s energy markets. At Nomos, we care about our craft and take full…
+
+**Role packed:** Applied AI  
+**Apply:** https://jobs.ashbyhq.com/nomos/c5d53247-8bc7-47ed-bdb8-1179e926a3c9/application  
+**Workplace:** Berlin  
+**Pack:** `daily/2026-10-03/14-nomos-applied-ai-berlin` · PDF `Muhammad_Ahmed_Nomos_Applied_AI.pdf`  
+**Candidate angle:** Careem MCP Server + Slack Bot + Slack→GitHub HITL agent loops; FinOps RAGAS personal lab only.  
+**Soft gates:** Phase C soft geo/visa · sponsorship No · `build_candidate: undecided`
+
+### 2026-10-03 packs on existing companies
+
+- **n8n — Forward Deployed Engineer - EMEA** · Ashby `n8n` · `c9fc97fa-a473-4133-b3cb-502785649ecd` · Germany · `daily/2026-10-03/03-n8n-forward-deployed-engineer-emea` · https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd/application
+- **Oscilar — Forward Deployed Engineer** · Ashby `oscilar` · `071abb5c-38c2-433b-a818-4067a0675e5e` · Brazil - Remote · `daily/2026-10-03/04-oscilar-forward-deployed-engineer-brazil` · https://jobs.ashbyhq.com/oscilar/071abb5c-38c2-433b-a818-4067a0675e5e/application
+- **Taktile — Forward Deployed Engineer** · Ashby `taktile` · `594e7ab1-3c77-43b5-be3f-bc30d513c14c` · Berlin Office  · `daily/2026-10-03/05-taktile-forward-deployed-engineer-berlin` · https://jobs.ashbyhq.com/taktile/594e7ab1-3c77-43b5-be3f-bc30d513c14c/application
+- **ElevenLabs — Forward Deployed Engineer - Software Engineer - Poland** · Ashby `elevenlabs` · `29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb` · Poland · `daily/2026-10-03/06-elevenlabs-forward-deployed-engineer-poland` · https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb/application
+- **monday.com — Forward Deployed Engineer** · Ashby `monday.com` · `24af3e64-0066-4400-9042-c87ec857934b` · London · `daily/2026-10-03/07-monday-forward-deployed-engineer-london` · https://jobs.ashbyhq.com/monday.com/24af3e64-0066-4400-9042-c87ec857934b/application
+- **Cognition — Applied AI Engineer - APAC** · Ashby `cognition` · `12250aa8-c371-440c-8189-04872fd43eeb` · Singapore · `daily/2026-10-03/13-cognition-applied-ai-engineer-apac-singapore` · https://jobs.ashbyhq.com/cognition/12250aa8-c371-440c-8189-04872fd43eeb/application
