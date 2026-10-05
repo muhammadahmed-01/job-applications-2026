@@ -2525,3 +2525,66 @@ New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). E
 - **Why pack:** Applied AI Engineer IC (agents for banking); US remote; 5+ YOE borderline but mid title preferred over Staff
 - **JD snip (MEASURED):** ABOUT TITAN  Titan builds AI software for banks: purpose-built small language models, a banking ontology, and AI bankers that financial institutions can trust. Our models outperform general-purpose LLMs by 30 to 80 percent on banking tasks. We operate under the compliance, audit, and model-risk standards that banking requires.     WHY THIS ROLE EXISTS  Titan is growing from a handful of live banking customers to thirty, then to hundreds. This role sits across the AI Toolbelt and Product Engineer…
 - **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Camunda — AI Process Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `camunda` · `987fb6e0-1e22-45e5-b152-57acbcb59cb2`
+- **Loc:** Remote (fully remote & global; hires outside entity countries via Remote.com)
+- **Why pack:** First-cohort FDE for ProcessOS (agents + Java services); fully remote & global via Remote.com EOR; no YOE floor; Java backend + production agent tooling
+- **JD snip (MEASURED):** Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, a…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Apify — AI Engineer
+- **Track:** Phase C soft · Ashby `apify` · `1dbcda58-3795-4d4c-a5f8-83b515599e03`
+- **Loc:** Prague (Hybrid) · JD offers option to work fully remotely
+- **Why pack:** Owns the Apify MCP Server + agent behind Apify AI + evals from production traces; 3+ YOE; fully-remote option; production MCP is his strongest proof
+- **JD snip (MEASURED):** Apify is the largest marketplace of tools for AI. On Apify Store https://apify.com/store, tens of thousands of Actors https://apify.com/actors, purpose-built tools for the web, help people and AI agents get real-time data, track competitors, generate leads, and connect apps. Anyone can build one and earn from it. Join us to help people put the web to work. Apify can find missing children https://blog.apify.com/fighting-child-traffickers-with-technology/, protect consumers fro…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### BJAK — Backend Engineer, AI (Agent Systems)
+- **Track:** Phase C soft · Ashby `bjakcareer` · `bfc5684c-184e-4bbf-863e-6c729c461e97`
+- **Loc:** Singapore (Remote)
+- **Why pack:** Backend owner of the inference/orchestration layer (latency, reliability, monitoring, incident response) for AI product; remote; BJAK already accepted a 10-03 app (different role)
+- **JD snip (MEASURED):** ABOUT ACTAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task com…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### TRM Labs — Backend Engineer, Agent Tools
+- **Track:** Phase C soft · Ashby `trm-labs` · `1eff4d33-7cf1-4682-a548-dcc4abd913f3`
+- **Loc:** United States (Remote) · team EST/PST, 6h PST overlap
+- **Why pack:** Backend integrations platform for AI agents (auth, rate limits, retries, queues, caches, on-call); distributed company; prior TRM app (Agent Engineer) accepted 09-28
+- **JD snip (MEASURED):** BUILD A SAFER WORLD. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. Team & position summary We are looking for a Software Engineer, API Integrations to join TRM’s AI Engineer…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Whippy — Software Engineer: Backend
+- **Track:** Phase C soft · Ashby `whippy` · `cb194715-61e9-4c5f-b8ac-ca1ca962cc4a`
+- **Loc:** Remote - Worldwide (team meetings Mon/Wed/Fri 2:30 pm GMT)
+- **Why pack:** Backend APIs for an AI-agent (voice/chat) communications platform; hires globally regardless of timezone; $60–80k; minimal form
+- **JD snip (MEASURED):** Whippy is leading the way in AI-powered business communication, transforming how companies engage with customers using intelligent AI Agents. From customer support to marketing to sales, businesses rely on Whippy’s Voice AI and Chat AI to eliminate manual workflows—responding to inquiries, nurturing leads, screening job applicants, and automating high-value interactions at scale. By combining AI-driven messaging with omni-channel automation, Whippy replaces outdated tools wit…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Supernal — Senior AI Engineer (Core)
+- **Track:** Phase C soft · Ashby `infinity-constellation` · `ea20ebd5-47e5-4c87-b244-85b8d2b216c6`
+- **Loc:** Remote (overlap with Americas time zones)
+- **Why pack:** Agent runtime + memory/retrieval + eval harness for 'AI employees'; remote; no YOE floor; framework OR custom implementation accepted
+- **JD snip (MEASURED):** SENIOR AI ENGINEER ABOUT SUPERNAL Supernal helps small-to-medium businesses hire their first AI employee. Our AI teammates are built using intelligent, agentic workflows deployed on a proprietary platform. We deliver working, value-generating AI Employees—not tools—that handle real business processes alongside human teams. THE ROLE We’re hiring a Senior AI Engineer to build and ship the first generation of personalized, self-improving agentic workflows that users rely on dail…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Viktor — Agent Harness Engineer (Remote)
+- **Track:** Phase C soft · Ashby `viktor` · `c750869a-1859-4339-bfc9-161a9ee2dc9f`
+- **Loc:** Europe (Remote; hubs Munich, New York, Warsaw)
+- **Why pack:** Python agent harness built from the loop up, Slack/Teams product, MCP servers — mirrors his MCP + Slack agent work; remote, founders-direct
+- **JD snip (MEASURED):** THE SHORT VERSION You're the person who makes Viktor do more things, for more customers, more reliably. You've built agents before (runtime, tools, memory, evals) and have opinions about what makes them work. You ship the day you write the code and reach for agentic engineering by default. If you've never built an agent, this isn't the role. THE HARD PART We're building a harness ready for AGI. Models keep getting better on their own; the harness decides how much of that inte…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Mastra — Customer Engineer
+- **Track:** Phase C soft · Ashby `mastra` · `05172cb0-47ec-44f9-9fe8-07d4896d10ad`
+- **Loc:** Remote (team across North American & European time zones)
+- **Why pack:** Forward-deployed + core-framework role on open-source agent framework; fully remote; minimal form; HM named in JD (co-founder/CPO) → warm outreach
+- **JD snip (MEASURED):** Mastra is hiring a Customer Engineer who operates at the intersection of production reality and core platform design. This role blends forward deployment and core engineering. You will work directly with teams deploying agents in production and translate what you learn into improvements in the Mastra framework https://github.com/mastra-ai/mastra itself. WHAT YOU’LL OWN With Customers https://mastra.ai/customers - Collaborate directly with customer teams building real agent sy…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+### Appsilon — Applied AI Engineer
+- **Track:** Phase C soft · Teamtailor `appsilon` · `teamtailor-7750183`
+- **Loc:** Worldwide (fully remote; B2B contract PLN 17–22k/month)
+- **Why pack:** Production AI agents/agentic workflows for pharma clients; fully remote worldwide; mid IC; Teamtailor (not Ashby)
+- **JD snip (MEASURED):** Why do we need you? At Appsilon, we empower global organizations to make smarter decisions with data. Our solutions help Fortune 500 companies discover new drugs, save lives, optimize operations, and unlock millions in value. To do this, we rely on robust, scalable, beautifully engineered data systems. We're looking for an AI Engineer who combines strong engineering fundamentals with hands-on experience building and deploying AI agents and generative AI solutions - someone wh…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
