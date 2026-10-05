@@ -2439,3 +2439,89 @@ New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). E
 - **ElevenLabs — Forward Deployed Engineer - Software Engineer - Poland** · Ashby `elevenlabs` · `29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb` · Poland · `daily/2026-10-03/06-elevenlabs-forward-deployed-engineer-poland` · https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb/application
 - **monday.com — Forward Deployed Engineer** · Ashby `monday.com` · `24af3e64-0066-4400-9042-c87ec857934b` · London · `daily/2026-10-03/07-monday-forward-deployed-engineer-london` · https://jobs.ashbyhq.com/monday.com/24af3e64-0066-4400-9042-c87ec857934b/application
 - **Cognition — Applied AI Engineer - APAC** · Ashby `cognition` · `12250aa8-c371-440c-8189-04872fd43eeb` · Singapore · `daily/2026-10-03/13-cognition-applied-ai-engineer-apac-singapore` · https://jobs.ashbyhq.com/cognition/12250aa8-c371-440c-8189-04872fd43eeb/application
+
+## 2026-10-04 Phase C sourcing (Ashby API)
+
+### Titan — Forward Deployed Engineer – Applied AI Focus
+- **Track:** Phase C soft · Ashby `titan-ai` · `9a2e4f06-a63f-4f31-b0b7-e8049bc070e9`
+- **Loc:** United States · remote=True · Remote
+- **Why pack:** FDE+Applied AI agentic banking; US remote; mid IC builder path (~3 YOE fit)
+- **JD snip (MEASURED):** THE ROLE  This is the FDE role with an applied AI spike  You'll be the engineer on a client engagement, working on the Titan platform and toolkit to deliver agentic systems that solve real banking workflows. You won't be alone — you'll be supported by senior FDEs and the platform team — but you'll own the build. You'll spend most of your time inside Titan Foundry, our Banking-Reasoning Models, and our Banking Agents framework, configuring and extending to fit each client's specific problem.  The…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Numeral — Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `numeral` · `eee33705-21b6-4f35-a941-d43772ddb919`
+- **Loc:** United States · remote=True · Remote
+- **Why pack:** FDE 2–5 YOE; AI agents + customer embed; US remote
+- **JD snip (MEASURED):** ABOUT NUMERAL:  At Numeral, we're building the future of tax by bringing together AI agents, human expertise, and global compliance.  We’re the largest and fastest-growing AI-native tax solution. Today, we serve more than 3,500 global businesses, including companies like Supabase, Eight Sleep, and Graza. We’ve grown quickly across our core e-commerce and software segments, more than tripled our revenue every year, and expanded into new industries, including manufacturing, distribution, and whole…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Attio — Forward Deployed GTM Engineer
+- **Track:** Phase C soft · Ashby `attio` · `26c31052-b667-46ae-b459-049018e55e96`
+- **Loc:** San Francisco · remote=True · Hybrid
+- **Why pack:** FDE GTM 2+ YOE; agentic CRM; hybrid soft geo
+- **JD snip (MEASURED):** Attio is the CRM for agentic revenue. Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A.  We hire builders who thrive on complex technical challenges, hold themselves to a high bar, and genuinely care about delighting the people who use wh…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Conversion — Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `conversion` · `79dcefbf-b697-4089-8dc0-0133ee114c94`
+- **Loc:** San Francisco Office · remote=None · None
+- **Why pack:** Founding FDE agentic marketing deployments; IC builder
+- **JD snip (MEASURED):** ABOUT US  Conversion is the agentic marketing automation platform for modern enterprises such as Plaid, ClickHouse, Webflow, and Productboard. Our platform lets growth teams run their entire go-to-market motion in one place, from acquisition through retention, with AI agents doing the work that legacy tools like Marketo, HubSpot, and Pardot can't.  We've raised $28M+ from Abstract Ventures, True Ventures, and HOF Capital. The team is based in San Francisco and includes engineers, designers, and …
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Hyde — AI Builder - FDE (UAE)
+- **Track:** Phase C soft · Ashby `hyde` · `e72d28be-6c80-40fe-8740-24f3ccd6d4b4`
+- **Loc:** United Arab Emirates · remote=False · OnSite
+- **Why pack:** MENA/UAE FDE AI Builder; intl/MENA-friendly
+- **JD snip (MEASURED):** ABOUT HYDE   Hyde builds specialist AI models and agents for high-stakes enterprise workflows. Our training and inference platform extracts proprietary data, deep institutional context, and enterprise dark matter to create models that reason like an enterprise's best operators, improving with every run.  We fundamentally believe the next frontier of AI isn't generalist models, but specialist ones that redefine what's possible in a given domain. Getting there requires sophisticated post-training,…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Hex — Software Engineer, AI Agent
+- **Track:** Phase C soft · Ashby `hex` · `f5e3e677-5fdb-4012-badb-1b709ed37e11`
+- **Loc:** San Francisco · remote=True · Hybrid
+- **Why pack:** AI Agent IC SWE; 4+ YOE close to ~3; hybrid soft
+- **JD snip (MEASURED):** ABOUT HEX  Hex is growing our team of builders on a mission to make everyone a data person. Our platform solves key pain points with today’s data and analytics tooling, and empowers anyone to explore data using natural language, with or without code, on trusted context. Thousands of customers like Ramp https://hex.tech/customers/ramp/, Figma https://hex.tech/customers/figma/, Stubhub https://hex.tech/customers/stubhub/, Anthropic, and Gamma love Hex https://www.g2.com/products/hex-tech-hex/revie…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Numeric — Software Engineer, Applied AI
+- **Track:** Phase C soft · Ashby `numeric` · `f2db141e-1548-48ed-98ba-63ea0f7549e4`
+- **Loc:** San Francisco · remote=True · Hybrid
+- **Why pack:** Applied AI SWE IC; agentic finance workflows
+- **JD snip (MEASURED):** Why Numeric  Every business runs on accounting, but the systems underneath it were built for a different era. Today’s ERPs don’t store a company’s financial data. They store a diluted copy of it. Every contract, lease, and invoice gets flattened into a journal entry, and the context that made it meaningful is thrown away. That’s why accounting teams spend every month re-checking numbers, stitching together spreadsheets, and waiting on engineering, and why AI struggles to do real accounting work.…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Mintlify — Applied AI Engineer
+- **Track:** Phase C soft · Ashby `mintlify` · `ec55d98f-6e94-4ffb-9a55-4adad39297c3`
+- **Loc:** San Francisco · remote=None · None
+- **Why pack:** Mid Applied AI Engineer (not Senior/Staff)
+- **JD snip (MEASURED):** WHY MINTLIFY?  We're on a mission to empower builders.    - Massive reach: Our docs platform serves 100 million+ developers every year and powers documentation for 20,000+ companies, including Anthropic, Microsoft, PayPal, Spotify, Coinbase, X, and over 20% of the last YC batch.   - Small team, huge impact: We recently passed 65 employees and raised a $45 million Series B led by A16Z and Salesforce Ventures. Each new hire has a huge impact on shaping the company's trajectory.    - Culture of slo…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Lightfield — Software Engineer, Applied AI (Early Career)
+- **Track:** Phase C soft · Ashby `lightfield` · `fc93a467-773d-4805-b342-bf470950732d`
+- **Loc:** HQ: San Francisco · remote=None · None
+- **Why pack:** Early-career Applied AI; strong ~3 YOE match
+- **JD snip (MEASURED):** ABOUT LIGHTFIELD  Lightfield is reimagining CRM as a world model of a business. By learning from emails, meetings, and customer conversations, we’re building a living understanding of how a company works—so AI can help teams anticipate what comes next, make better decisions, and take action.  More than 5,000 companies have used the product since its November launch. We’ve raised more than $70M from Andreessen Horowitz, Coatue, Maverick Ventures, and Greylock to attack the biggest software catego…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Normal Computing — Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `normalcomputing` · `a1829ea4-36fc-42a9-af1d-5382f121ccf7`
+- **Loc:** New York City · remote=True · Hybrid
+- **Why pack:** New FDE role (Agent Systems already applied); hybrid soft
+- **JD snip (MEASURED):** NORMAL COMPUTING | BUILD WITH US  Normal is an applied AI company solving the hardest problems in AI and silicon. We build foundational hardware and software for the semiconductor industry, critical AI infrastructure, and the broader systems that power our world, in partnership with the world's most advanced institutions. We work as one team across New York City, Silicon Valley (Mountain View), London, Copenhagen, and Seoul.   THE ROLE  The cost of taping out silicon is enormous, and the complex…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Commure — Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `commure` · `faeeff7f-b1f9-4db2-93ff-99da570f85b0`
+- **Loc:** Mountain View, CA · remote=True · Remote
+- **Why pack:** FDE 1+ YOE healthcare AI agents; remote soft (prior Commure roles different)
+- **JD snip (MEASURED):** At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-native platform integrated with 60+ EHRs.    Healthcare carries a $1 trillion administrative burden and …
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
+
+### Titan — Applied AI Engineer
+- **Track:** Phase C soft · Ashby `titan-ai` · `297cf9a9-289d-4cd5-a4a1-1e051f6f5d64`
+- **Loc:** United States · remote=True · Remote
+- **Why pack:** Applied AI Engineer IC (agents for banking); US remote; 5+ YOE borderline but mid title preferred over Staff
+- **JD snip (MEASURED):** ABOUT TITAN  Titan builds AI software for banks: purpose-built small language models, a banking ontology, and AI bankers that financial institutions can trust. Our models outperform general-purpose LLMs by 30 to 80 percent on banking tasks. We operate under the compliance, audit, and model-risk standards that banking requires.     WHY THIS ROLE EXISTS  Titan is growing from a handful of live banking customers to thirty, then to hundreds. This role sits across the AI Toolbelt and Product Engineer…
+- **Fit hook:** Careem MCP + Slack HITL agent loops; ~3 YOE backend; sponsorship=No
