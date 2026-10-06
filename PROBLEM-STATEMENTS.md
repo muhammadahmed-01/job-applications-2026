@@ -2588,3 +2588,69 @@ New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). E
 - **Why pack:** Production AI agents/agentic workflows for pharma clients; fully remote worldwide; mid IC; Teamtailor (not Ashby)
 - **JD snip (MEASURED):** Why do we need you? At Appsilon, we empower global organizations to make smarter decisions with data. Our solutions help Fortune 500 companies discover new drugs, save lives, optimize operations, and unlock millions in value. To do this, we rely on robust, scalable, beautifully engineered data systems. We're looking for an AI Engineer who combines strong engineering fundamentals with hands-on experience building and deploying AI agents and generative AI solutions - someone wh…
 - **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java backend + Tier-1 on-call 15+ services; ~3 YOE; sponsorship=No
+
+## {DAY} Phase C sourcing (Firecrawl + Ashby API)
+
+### Wand AI — Forward Deployed Engineer (Remote, Asia Timezone)
+- **Track:** Phase C soft · Ashby `wand-ai` · `9da2cf5f-38e6-4aa7-942e-6bd0e15cdbe8`
+- **Loc:** Remote — Asia timezone
+- **Why pack:** Remote role explicitly for Asia time zones; FDE who builds and ships agent workflows into enterprise systems; his production MCP server + Slack bot + HITL change agent is the same shape of work
+- **Problem:** Wand AI — platform for building and running AI agents/'agentic workforce' inside enterprises; FDEs own customer deployments end to end: scoping workflows, building agents (LangGraph/LangChain/CrewAI, Python/JS), integrating with customer systems, and getting them into daily use.
+- **JD snip (MEASURED):** BUILD THE FUTURE WORKFORCE Wand turns AI into labor. It enables humans and AI agents to operate together as a unified, hybrid workforce, with comprehensive management and oversight. And it’s already operating at scale inside some of the world’s largest organizations. Wand built the world’s first Agentic Labor Infrastructure enabling governments and global enterprises to create, manage, and scale digital workforces. Our mission is to integrate agent ecosystems into the core of work and business, …
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Trust Wallet — Senior Backend Engineer (Go)
+- **Track:** Phase C soft · Ashby `trust-wallet` · `f368ed72-a108-47dd-9599-916e20f603d4`
+- **Loc:** Remote — Global
+- **Why pack:** Remote-global Go microservices on AWS with SQL, Docker/K8s and monitoring; JD explicitly offers a mid-level path at 3+ yrs Go; Payments + on-call background fits wallet backend
+- **Problem:** Trust Wallet — self-custody multi-chain crypto wallet (200M+ users); backend team builds Go microservices on AWS (SQL, Docker/K8s) behind the wallet app: balances, assets, transaction services, with high reliability and security requirements.
+- **JD snip (MEASURED):** About the company Trust Wallet is the leading non-custodial cryptocurrency wallet, trusted by over 200 million people worldwide to securely manage and grow their digital assets. Our vision is to give individuals the freedom to own their assets, confidently participate in the future economy, and access opportunities that enhance their lives. Our mission is to be a trusted personal companion — helping users safely navigate Web3, the on-chain economy, and the emerging AI-powered future. With suppor…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Prosus — AI Engineer – 0 to 1 Products
+- **Track:** Phase B (Amsterdam relocation) · Ashby `prosus` · `e11d7fc7-abe7-4e24-b32b-94676cb70e37`
+- **Loc:** Amsterdam (Phase B relocation; Ashby employment type: Contract)
+- **Why pack:** Junior-to-mid AI engineer (0–4 yrs) building new AI products fast for a group that owns iFood/OLX/Swiggy-type companies; backend + shipped AI tooling is the profile; Amsterdam relocation is a normal path
+- **Problem:** Prosus — global consumer-internet group (iFood, OLX, Swiggy stake, etc.); the AI 0→1 team builds new AI-native products quickly, from prototype to launch, with small engineering teams in Amsterdam.
+- **JD snip (MEASURED):** Who We Are You've ordered dinner through Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. Chances are, you've already used a Prosus company today. We are Prosus, a global technology company powering some of the world's leading lifestyle ecommerce businesses. Every day, billions of people across India, Latin America, Europe and beyond use our products and services to buy, sell, pay, connect and discover. Our AI-driven ecosystem spans 100+ companies across ecommerce, food d…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Rescale — Software Engineer, Agentic AI Systems
+- **Track:** Phase C soft · Ashby `rescale` · `7000359c-888c-4686-a17f-513a75d883a0`
+- **Loc:** Remote (US-listed; soft geo — form only asks US sponsorship)
+- **Why pack:** 3–5 yrs IC agentic-systems role in Python/Java/Go with RAG, evals and data-intensive backends (caches, queues, relational DBs); title is mid, not Senior
+- **Problem:** Rescale — cloud HPC / R&D simulation platform; Agentic AI Systems team builds agents and AI features over simulation data and compute workflows (Python/Java/Go, RAG, evals, object storage, queues).
+- **JD snip (MEASURED):** Rescale is pioneering the future of engineering and scientific discovery. As the leader in digital engineering, we’re transforming how products are developed—through intelligent automation, applied AI, data management, and the integration of the world’s largest network of engineering and R&D applications. Joining Rescale means becoming part of a diverse, collaborative, and mission-driven team that’s unlocking faster innovation across industries like aerospace, energy, life sciences, and manufact…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Hipp — Agent Engineer
+- **Track:** Phase C soft · Ashby `hipp` · `259520ad-2892-4709-94a9-a0ce36bbafdd`
+- **Loc:** Remote (US-listed; soft geo)
+- **Why pack:** Builds production agents for healthcare billing workflows: tools, structured outputs, escalation to humans, evals; 'we care more about what you have built than years'; billing ≈ Payments background
+- **Problem:** Hipp — AI agents that do back-office work for healthcare providers (billing, claims, eligibility, compliance); agent engineers build tool-using, human-escalating workflows with evals and run them with real customers.
+- **JD snip (MEASURED):** About Hipp Hipp is an AI-native healthcare platform built to modernize operations for non-hospital healthcare providers. We partner closely with ambulatory healthcare organizations to streamline clinical workflows, billing, revenue cycle operations, scheduling, and patient engagement—so providers can spend less time managing administrative work and more time delivering care. Our platform combines EMR capabilities, billing infrastructure, operational workflows, and AI agents in one intelligent sy…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Ziina — Backend Engineer, Payments Platform
+- **Track:** Phase B (Dubai / MENA) · Ashby `ziina` · `b52d240f-2ccb-4aea-800b-623e9ca8ae09`
+- **Loc:** Dubai, UAE (On-site; relocation — Phase B MENA)
+- **Why pack:** UAE payments fintech, 3+ yrs backend on systems that move money; Kafka, Postgres, Redis, AWS, K8s match his Careem Payments stack; MENA relocation path
+- **Problem:** Ziina — UAE payments app/fintech (P2P, merchant payments, payment links). Payments Platform team builds the backend that moves money: ledgers, payouts, integrations with card/bank rails; TypeScript/Node/Nest, GraphQL, Kafka, Postgres, Redis, AWS, K8s.
+- **JD snip (MEASURED):** Ziina is looking for a Backend Engineer to join our team. We laid a strong foundation upon which we’ve shipped our product. We are looking for someone to help us build out innovative new features, prepare our technology to scale, and help shape our engineering organization to be the kind of place that bright minds from across the region and the world aspire to work for. As our team is small, our ideal candidate is a creative thinker excited to solve hard problems and to build something from the …
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Supabase — AI Platform Engineer
+- **Track:** Phase C soft · Ashby `supabase` · `3b5d54ca-741b-45ac-bd3f-31605a0d3541`
+- **Loc:** Remote — Global
+- **Why pack:** Remote-global; builds Supabase's internal agent execution platform (event queue, durable state, human review gate, rollback, run logging, eval gates) — his HITL change agent + MCP bot are small versions of exactly that
+- **Problem:** Supabase — open-source Postgres development platform (fully remote company). AI Platform Engineer builds the internal agent execution platform: event queue, durable state, human review gate, rollback, run logs, eval gates and governance so agents can act on real systems safely.
+- **JD snip (MEASURED):** ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We are hiring a AI Platform Engineer to build the execution layer for Supabase's internal AI systems. Supabase is building an AI-native internal operating system: a common way of working across the company wh…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Percona — Senior Backend Engineer (Go)
+- **Track:** Phase C soft · Ashby `percona` · `94c8439d-9db3-4238-a073-9c21a0409e90`
+- **Loc:** Remote — EMEA (remote-only company, 50+ countries; B2B contractor where no entity)
+- **Why pack:** Go backend for an open-source observability platform (PMM); stand-out list includes MCP, agent tooling and AI troubleshooting; Redis/observability dashboards + on-call are direct proof; remote-only with B2B option for countries without an entity
+- **Problem:** Percona — open-source database software/support company (remote-only, 50+ countries). PMM team builds Percona Monitoring and Management: Go backend services/APIs for monitoring MySQL/PostgreSQL/MongoDB with OpenTelemetry, Prometheus/VictoriaMetrics, ClickHouse; exploring MCP and AI-assisted troubleshooting.
+- **JD snip (MEASURED):** Percona is looking for a remote, full-time Senior Backend Software Engineer to join the PMM team and help build the next generation of Percona Monitoring and Management (PMM). PMM is a free and open-source observability and database management platform for monitoring, troubleshooting, and managing MySQL, PostgreSQL, MongoDB, and the infrastructure they run on. You will work primarily on the backend of PMM, building services, APIs, database integrations, and distributed components in Go. You will…
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
