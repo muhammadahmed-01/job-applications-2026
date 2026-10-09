@@ -2696,3 +2696,52 @@ New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). E
 - **Problem:** DigitalOcean (Cloudways, Karachi) — the Cloudways AI team builds agents that automate managed-hosting workflows, MCP integrations with existing Cloudways services, anomaly detection and AI-driven automation, in Python and PHP.
 - **JD snip (MEASURED):** Software Engineer, AI Karachi Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of top talent who are relentless in their drive to build the simplest scalable cloud. If you have a growth mindset, naturally like to think big and bold, and are energized by the fast-paced environment of a true industry disruptor, you’ll find your place here. We value winning together—while learning, having fun, and making a profound difference for the dreamers and bui…
 - **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call 15+ services, 3-tier Redis observability dashboards; ~3 YOE; sponsorship=No
+
+### Mastra — AI Engineer
+- **Track:** Phase C soft · Ashby `mastra` · `531a3fe8-556f-4b83-bee7-20374f67f980`
+- **Loc:** Remote (team mostly NA/EU TZ) — soft geo
+- **Why pack:** Agent traces/evals/learning features for open-source TS agent framework — same shape as production MCP bot + HITL change agent; fully remote; clean form (≈85%). Different job id from Mastra Customer Engineer APPLIED 2026-10-05.
+- **Problem:** Mastra — open-source TypeScript agent framework. AI Engineer owns agent traces, evals and learning loops that help teams ship reliable production agents.
+- **Fit hook:** Careem production MCP server + Slack bot (~30 min → <60 sec), Slack→GitHub HITL agent, Go/Java Payments backend + Tier-1 on-call; ~3 YOE; sponsorship=No
+
+### Hilberts — AI Engineer - Core
+- **Track:** Phase C soft · Ashby `hilberts` · `133e25a8-f895-4c44-bfbb-d7b64db4db7b`
+- **Loc:** Türkiye Remote + PST evening overlap — soft geo
+- **Why pack:** Owns agent eval harnesses, LangGraph workflows, HITL review, tracing/on-call — near 1:1 with HITL agent + MCP + Redis observability (≈85%)
+- **Problem:** Hilberts — AI engineering studio building production agent systems for clients. Core AI Engineers own eval harnesses, LangGraph workflows, human-in-the-loop review and tracing/on-call for agent reliability.
+- **Fit hook:** Slack→GitHub HITL change agent, production MCP + Slack bot, 3-tier Redis observability, Payments concurrency/$9,640 bug; ~3 YOE; sponsorship=No
+
+### Stello — Forward Deployed Engineer
+- **Track:** Phase C soft · Ashby `stelloagents` · `3a854c2d-d3e2-4488-a2fb-a57acff4023a`
+- **Loc:** Remote US-open (contract) — soft geo; no auth Boolean on form
+- **Why pack:** FDE building production client agents with evals/monitoring; 2+ YOE floor; clean form (≈82%)
+- **Problem:** Stello Agents — deploys production client agents with evals and monitoring. FDEs sit with customers, ship agents, and harden reliability loops.
+- **Fit hook:** Careem MCP + HITL agents, Payments backend + on-call; ~3 YOE; sponsorship=No
+
+### Attuned Intelligence — AI Solutions Engineer, Customer Agents
+- **Track:** Phase C soft · Ashby `attuned-intelligence` · `b50e0594-e2f5-4361-bd66-c56e480d85e5`
+- **Loc:** California remote — soft geo
+- **Why pack:** Customer LLM agents with tools, testing and human handoffs; 3–5 YOE; clean form; voice/Epic gap stated honestly (≈80%)
+- **Problem:** Attuned Intelligence — customer-facing LLM agents (tools, testing, human handoffs) for enterprise workflows.
+- **Fit hook:** Production MCP tool loops + HITL change agent; Go/Java backend; voice/Epic healthcare domain gap acknowledged; ~3 YOE; sponsorship=No
+
+### StackBlitz — Senior Applied AI Engineer (2026-10-09)
+- **Track:** Phase C soft · Greenhouse `stackblitz` · `gh-4005254009`
+- **Loc:** Globally remote; 7–10am PT flexibility Yes from Lahore evenings
+- **Why pack:** Coding agents / evals / tool-use for Bolt.new; form allows non-US + 3+ YOE; Senior title stretch (≈82%). Prior 2026-09-22 evening HTTP 406 — this run job-boards loaded HTTP 200.
+- **Problem:** StackBlitz / Bolt.new — coding agents that plan, call tools, and keep context across real codebases for millions of builders.
+- **Fit hook:** Production MCP + HITL change agent (smaller scale); FinOps LLM gateway lab; Go/Java; Senior stretch stated; sponsorship=No
+
+### Hightouch — Software Engineer, AI Agents
+- **Track:** Phase C soft · Ashby `hightouch-inc` · `83b879e6-628e-41b4-a601-191e2dc69a54`
+- **Loc:** Remote (North America) — soft geo; US auth=No / sponsorship=No on form
+- **Why pack:** Production data agents + LLM pipelines; truthful No/No on US auth/sponsorship (≈82%). Board limit: 2 roles / 60 days.
+- **Problem:** Hightouch — reverse ETL / data activation platform building production AI agents and LLM pipelines over customer data.
+- **Fit hook:** Production MCP + HITL agents, Payments backend reliability; ~3 YOE; sponsorship=No
+
+### Breakmark — Forward Deployed Engineer
+- **Track:** Phase B (Doha/Dubai/London) · Ashby `breakmark` · `87526a4d-b026-4bef-9a03-dc257a40ffa6`
+- **Loc:** Doha / Dubai / London + Gulf travel — Phase B MENA
+- **Why pack:** Mid FDE 2–4 YOE; MENA Phase B; Careem MENA background; TypeScript/React gap stated (≈80%)
+- **Problem:** Breakmark — forward-deployed engineers embed with Gulf / London clients to ship production agent systems and harden them in the field.
+- **Fit hook:** Careem MENA payments + MCP/HITL agents; open to Dubai/Doha travel; TS/React gap honest; ~3 YOE; sponsorship=No
