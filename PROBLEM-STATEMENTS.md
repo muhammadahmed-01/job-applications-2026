@@ -2745,3 +2745,39 @@ New-company problem blurbs (MEASURED from Ashby posting-api descriptionPlain). E
 - **Why pack:** Mid FDE 2–4 YOE; MENA Phase B; Careem MENA background; TypeScript/React gap stated (≈80%)
 - **Problem:** Breakmark — forward-deployed engineers embed with Gulf / London clients to ship production agent systems and harden them in the field.
 - **Fit hook:** Careem MENA payments + MCP/HITL agents; open to Dubai/Doha travel; TS/React gap honest; ~3 YOE; sponsorship=No
+
+## Forgd — Forward Deployed Engineer (NA) (2026-10-10)
+
+Anthropic-exclusive consultancy helping enterprises go AI-native (Claude Code → team workflows → agentic delivery). FDEs embed with customer engineering teams (~20% travel). Remote NA listing.
+
+## G2i — AI Engineer, Agents & Search (2026-10-10)
+
+Recruiting intermediary for a healthcare-staffing AI client building production agent systems (orchestration, search/retrieval, evaluation). Remote US or LATAM bands.
+
+## Bliro — Senior AI Engineer, Agents (Python) (2026-10-10)
+
+AI assistant for field sales (chat + voice agents; 1M+ touchpoints; German Mittelstand). Senior AI Engineer owns agent quality, prompting/context, model benchmarking and evals. Munich hybrid preferred; remote open.
+
+## Arcade — Forward Deployed Engineer (2026-10-10)
+
+MCP runtime giving agents authorized tools + audit trail for Fortune 100 production actions. FDEs pair with AEs on discovery and customer deployments (Austin hybrid).
+
+## Ease Health — Applied AI Engineer (2026-10-10)
+
+a16z-backed AI for behavioral health clinics. Applied AI builds workflow-embedded AI (doc checks, agents) with evals before clinicians rely on output. NYC-remote team.
+
+## AirOps — Forward Deployed Engineer (2026-10-10)
+
+Platform for brand growth in AI search (ChatGPT/Claude/Gemini). FDEs ship customer AI search/agent workflows (Ramp, Chime, Airbnb, etc.). NYC hybrid listing.
+
+## Together AI — Senior Software Engineer — Infra Agent Systems (2026-10-10)
+
+AI Native Cloud. Infra Agent Systems builds production agents that diagnose/investigate/remediate GPU-fleet issues plus knowledge graph, retrieval, orchestration and eval platform. Remote India listing.
+
+## Nexxa — Backend AI Engineer (2026-10-10)
+
+Backend/platform engineering role (Toronto Remote) with Python-plus for ML/model integration. Distinct from Nexxa Applied AI postings that carry US-auth questions.
+
+## GitLab — Backend Engineer (Python), AI Engineering: Agent Foundations (2026-10-10)
+
+Duo Agent Platform / Agent Foundations stage: AI Gateway, Flow Registry, LangGraph agentic flows, evals, Tier-2 on-call. Intermediate Backend Engineer (Python). Remote with CA/UK/PL hiring focus on this posting.
